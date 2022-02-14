@@ -1,0 +1,15 @@
+((TS=("policy network")) OR TS=("governance network") OR TS=("interorganizational network") OR TS=("organizational network") OR TS=("governance network") OR TS=("political network") OR TS=("collaborative network")) AND (TS=(environ*) OR TS=(ecolog*) OR TS=(climat*) OR TS=(marine) OR TS=(water) OR TS=(transport*) OR TS=(energy) OR TS=(coastal) OR TS=(wildlife) OR TS=(conservation))
+
+623 results from Science Citation Index Expanded (SCI-EXPANDED), Social Sciences Citation Index (SSCI):
+
+https://www.webofscience.com/wos/woscc/summary/e04b83f1-511a-4066-ad83-b040ee4aafc5-1f842db2/relevance/1
+
+Web of science query 
+((TS=(policy network)) OR TS=(governance network)) AND (TS=(environ*) OR TS=(ecolog*) OR TS=(climat*) OR TS=(marine) OR TS=(water) OR TS=(transport*) OR TS=(energy))
+
+Returns 24,266 results as of Jan 17, 2022
+Query location: 
+https://www.webofscience.com/wos/woscc/summary/fb53728a-9312-44cc-a940-0b12ec99bf91-1ea7fc3b/relevance/1
+
+
+So far I've only download results up through 2020 (500 at a time, manual download)

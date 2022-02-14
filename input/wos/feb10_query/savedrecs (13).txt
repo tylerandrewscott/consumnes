@@ -1,0 +1,1550 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Huguet, R
+   O'Callaghan, R
+   Sieber, S
+AF Huguet, Ricard
+   O'Callaghan, Ramon
+   Sieber, Sandra
+BE Cunningham, P
+   Cunningham, M
+TI Fostering Networking in Barcelona's Innovation Ecosystem
+SO INNOVATION AND THE KNOWLEDGE ECONOMY: ISSUES, APPLICATIONS, CASE
+   STUDIES, PTS 1 & 2
+SE Information and Communication Technologies and the Knowledge Economy
+LA English
+DT Article; Book Chapter
+AB The paper discusses a field experiment on social-network stimulation to foster innovation in Barcelona. The initiative revolves around the City Council's decision to deploy and use IGIS a Geographic Information System that generates an "Innovation Asset Map", i.e. a spatial representation and directory of the city's innovation assets and actors. The initiative is viewed as an important step for turning the uncoordinated innovation system of the past into a coordinated ecosystem. The City expects IGIS to be used as a platform to foster networking among all innovation actors. The paper provides an analysis of the situation before, and situation after the deployment of system. It discusses the different uses, the results obtained, the obstacles encountered. and the solutions provided. The paper also incorporates two mini case studies to illustrate the benefits to business users. It finally assesses the effectiveness and limitations of the initiative as a policy measure.
+C1 [Huguet, Ricard] Ajuntament Barcelona, Innovat Unit, Barcelona 08018, Spain.
+   [O'Callaghan, Ramon] Tilburg Univ, NL-5000 LE Tilburg, Netherlands.
+   [Sieber, Sandra] Univ Navarra, IESE Business Sch, Barcelona 08034, Spain.
+RP Huguet, R (corresponding author), Ajuntament Barcelona, Innovat Unit, Llacuna 162-164, Barcelona 08018, Spain.
+EM ricard.huguet@barcelonactiva.es; r.ocallaghan@uvt.nl; sieber@iese.edu
+CR DTI, 2001, BUS CLUST UK 1 ASS
+   European Commission, 2003, FIN REP EXP GROUP EN
+   KETELS C, 2004, EUROPEAN CLUSTERS ST, V3
+   NOHRIA N, 1992, NETWORKS ORG STRUCTU
+   Porter ME, 2003, REG STUD, V37, P549, DOI 10.1080/0034340032000108688
+   Saxenian A., 1994, REGIONAL ADVANTAGE C
+   Solvell O, 2003, CLUSTER INITIATIVE G
+   Wasserman S, SOCIAL NETWORK ANAL
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1574-1230
+BN 978-1-58603-563-1
+J9 INFORM COMM TECH KNO
+PY 2005
+VL 2
+BP 638
+EP 644
+PN 1-2
+PG 7
+WC Business; Information Science & Library Science; Multidisciplinary
+   Sciences
+WE Book Citation Index – Social Sciences & Humanities (BKCI-SSH); Book Citation Index – Science (BKCI-S)
+SC Business & Economics; Information Science & Library Science; Science &
+   Technology - Other Topics
+GA BKX18
+UT WOS:000269519300082
+DA 2022-02-11
+ER
+
+PT C
+AU Jordan, F
+AF Jordan, F
+BE Tiezzi, E
+   Brebbia, CA
+   Jorgensen, SE
+   Gomar, DA
+TI Topological key players in communities: the network perspective
+SO ECOSYSTEMS AND SUSTAINABLE DEVELOPMENT V
+SE WIT Transactions on Ecology and the Environment
+LA English
+DT Proceedings Paper
+CT 5th International Conference on Ecosystems and Sustainable Development
+CY MAY 03-05, 2005
+CL Cadiz, SPAIN
+SP Wessex Inst Technol, Univ Cadiz, Univ Siena
+DE keystone species; network perspective; graph theory; trophic field;
+   indirect effects
+ID FOOD WEBS; KEYSTONES; PATTERNS; QUEST
+AB For both a general understanding of ecosystem functioning and the setting of conservation priorities is very important to have quantitative methods for quantifying the relative importance of species. We present an approach from the network perspective on ecology. Topological keystone species are those in critically important positions within the interaction network of an ecological community. Graph theory makes the quantification of the positional importance of nodes within networks possible. There are many ways to measure this and, in particular, we use some network indices recently introduced in social network analysis. These are suitable for the characterisation of both direct and indirect interactions. The key players of a hypothetical ecological community will be identified and the results of different methods will be compared. We emphasise that the need to find a quantitative, comparative approach to species importance is urgent and very important when outlining effective conservation efforts.
+C1 Collegium Budapest, Inst Adv Study, Budapest, Hungary.
+CR Abrams Peter A., 1996, P371
+   Allesina S, 2004, J THEOR BIOL, V230, P351, DOI 10.1016/j.jtbi.2004.05.009
+   Borgatti SP, 2003, DYNAMIC SOCIAL NETWORK MODELING AND ANALYSIS, P241
+   BORGATTI SP, 1996, UCINET 4 VERSION 1 6
+   DAILY GC, 1993, P NATL ACAD SCI USA, V90, P592, DOI 10.1073/pnas.90.2.592
+   Dunne JA, 2002, ECOL LETT, V5, P558, DOI 10.1046/j.1461-0248.2002.00354.x
+   Everett M.G., 1998, CONNECTIONS, V21, P49
+   Everett MG, 1999, J MATH SOCIOL, V23, P181, DOI 10.1080/0022250X.1999.9990219
+   Goodwin B.C., 1989, P49
+   HARARY F, 1959, SOCIOMETRY, V22, P23, DOI 10.2307/2785610
+   HARARY F, 1961, GEN SYST, V6, P41
+   IVANCIUC O, 1993, J MATH CHEM, V12, P309, DOI 10.1007/BF01164642
+   Jordan F., 2004, Physics of Life Reviews, V1, DOI 10.1016/j.plrev.2004.08.001
+   Jordan F, 2003, COMMUNITY ECOL, V4, P79, DOI 10.1556/ComEc.4.2003.1.12
+   Jordan F, 1999, OIKOS, V86, P453, DOI 10.2307/3546650
+   Jordan F, 2002, OIKOS, V99, P607, DOI 10.1034/j.1600-0706.2002.11889.x
+   Jordan F, 2001, COMMUNITY ECOL, V2, P17, DOI 10.1556/ComEc.2.2001.1.2
+   Luczkovich JJ, 2003, J THEOR BIOL, V220, P303, DOI 10.1006/jtbi.2003.3147
+   Margalef R, 1991, THEORETICAL STUDIES, P41
+   MENGE BA, 1995, ECOL MONOGR, V65, P21, DOI 10.2307/2937158
+   Montoya JM, 2002, J THEOR BIOL, V214, P405, DOI 10.1006/jtbi.2001.2460
+   Muller CB, 1999, J ANIM ECOL, V68, P346, DOI 10.1046/j.1365-2656.1999.00288.x
+   Power ME, 1996, BIOSCIENCE, V46, P609, DOI 10.2307/1312990
+   Ricotta C, 2000, COMMUNITY ECOL, V1, P89, DOI 10.1556/ComEc.1.2000.1.12
+   Simberloff D, 1998, BIOL CONSERV, V83, P247, DOI 10.1016/S0006-3207(97)00081-5
+   Sole RV, 2001, P ROY SOC B-BIOL SCI, V268, P2039, DOI 10.1098/rspb.2001.1767
+   Wassermann S., 1994, SOCIAL NETWORK ANAL
+   Williams RJ, 2002, P NATL ACAD SCI USA, V99, P12913, DOI 10.1073/pnas.192448799
+   WOOTTON JT, 1994, ANNU REV ECOL SYST, V25, P443, DOI 10.1146/annurev.es.25.110194.002303
+   Yodzis P, 2001, TRENDS ECOL EVOL, V16, P78, DOI 10.1016/S0169-5347(00)02062-0
+NR 30
+TC 2
+Z9 2
+U1 0
+U2 1
+PU WIT PRESS
+PI SOUTHAMPTON
+PA ASHURST LODGE, SOUTHAMPTON SO40 7AA, ASHURST, ENGLAND
+SN 1743-3541
+BN 1-84564-013-6
+J9 WIT TRANS ECOL ENVIR
+JI WIT Trans. Ecol. Environ.
+PY 2005
+VL 81
+BP 87
+EP 96
+PG 10
+WC Engineering, Environmental; Environmental Sciences; Environmental
+   Studies
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Engineering; Environmental Sciences & Ecology
+GA BCP79
+UT WOS:000230620300010
+DA 2022-02-11
+ER
+
+PT J
+AU Latkin, CA
+   Knowlton, AR
+AF Latkin, CA
+   Knowlton, AR
+TI Micro-social structural approaches to HIV prevention: a social
+   ecological perspective
+SO AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV
+LA English
+DT Article; Proceedings Paper
+CT HIV Prevention Research Conference
+CY JAN 15-16, 2004
+CL Univ Delaware, Christiansted, VI
+HO Univ Delaware
+ID PERSONAL NETWORK CHARACTERISTICS; SEXUAL MIXING PATTERNS; INJECTION-DRUG
+   USERS; RISK NETWORKS; ALCOHOL-CONSUMPTION; AIDS; INTERVENTION; BEHAVIOR;
+   POPULATION; PEOPLE
+AB To be effective and sustainable, HIV-prevention interventions need to be sufficiently powerful to counteract prevailing social norms and diffuse through the targeted community to provide social reinforcement for behaviour change. Social structural and environmental factors are major influences on HIV-related behaviours yet the dearth of conceptualization and operationalization of these factors impede progress in intervention development. In this paper we propose a social ecological perspective to intervention and highlight relevant theories from social psychology and organizational behaviour literatures. We examine social networks and social settings as micro-structural and environmental influences on HIV risk behaviours, social identities and norms, and as important targets for HIV-prevention intervention. Intervention approaches are proposed that target networks and behavioural settings and provide participants with socially meaningful and rewarding behavioural options that are consistent with valued prosocial identities or roles. Examples are presented on how such an approach has been utilized in prior HIV prevention interventions, including our social network-oriented intervention that trained disadvantaged former and current illicit drug users to conduct peer outreach. We describe how behavioural interventions may enhance or introduce new prosocial identities and social roles, and that network members may confer social approval to reinforce these identities and roles, leading to sustained behavioural risk reduction and changes in risk behaviour norms.
+C1 Johns Hopkins Bloomberg Sch Publ Hlth, Baltimore, MD USA.
+RP Latkin, CA (corresponding author), Dept Hlth Policy & Management, Div Social & Behav Sci, 624 N Broadway,Room 737, Baltimore, MD 21205 USA.
+EM clatkin@jhsph.edu
+FU NIDA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Drug Abuse
+   (NIDA) [DA016555] Funding Source: Medline; NIMH NIH HHSUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Institute of Mental Health (NIMH) [MH066810] Funding
+   Source: Medline
+CR Agha S, 2002, AIDS EDUC PREV, V14, P269, DOI 10.1521/aeap.14.5.269.23875
+   Ainsworth M, 2003, HEALTH POLICY, V64, P13, DOI 10.1016/S0168-8510(02)00079-9
+   AITKEN PP, 1985, ALCOHOL ALCOHOLISM, V20, P445
+   Aral SO, 1999, AM J PUBLIC HEALTH, V89, P825, DOI 10.2105/AJPH.89.6.825
+   Barker R, 1978, HABITS ENV HUMAN BEH
+   Barker Roger G, 1955, MIDWEST ITS CHILDREN
+   Bourgois P, 1998, SUBST USE MISUSE, V33, P2323, DOI 10.3109/10826089809056260
+   BRONFENBRENNER U, 1979, AM PSYCHOL, V34, P844, DOI 10.1037/0003-066X.34.10.844
+   Bruner J., 1990, ACTS MEANING
+   CELENTANO DD, 1991, AM J PUBLIC HEALTH, V81, P1291, DOI 10.2105/AJPH.81.10.1291
+   Cohen J, 2004, SCIENCE, V304, P504, DOI 10.1126/science.304.5670.504
+   Curran PJ, 1996, J STUD ALCOHOL, V57, P410, DOI 10.15288/jsa.1996.57.410
+   DEARING JW, 1994, PREVENTING AIDS THEO, P79
+   Des Jarlais DC, 2000, AIDS, V14, pS41, DOI 10.1097/00002030-200006001-00006
+   EDWARDS J, 1990, APPL SOCIAL INFLUENC
+   ELBASSEL N, 1994, AIDS EDUC PREV, V6, P506
+   EWART CK, 1991, AM PSYCHOL, V46, P931, DOI 10.1037/0003-066X.46.9.931
+   FISHER JD, 1988, AM PSYCHOL, V43, P914, DOI 10.1037/0003-066X.43.11.914
+   Friedman SR, 2000, AM J EPIDEMIOL, V152, P913, DOI 10.1093/aje/152.10.913
+   Friedman SR, 1997, AM J PUBLIC HEALTH, V87, P1289, DOI 10.2105/AJPH.87.8.1289
+   GARFINKEL H, 1984, STUDIES ETHNOMETHOLO
+   GETER RS, 1994, INT J ADDICT, V29, P1015, DOI 10.3109/10826089409047924
+   Giddens A., 1986, CONSTITUTION SOC
+   Giddens A., 1979, CENTRAL PROBLEMS SOC
+   Goffman E., 1961, ENCOUNTERS 2 STUDIES
+   Goffman Erving., 1961, ASYLUMS ESSAYS CONDI
+   Gregson S, 2004, SOC SCI MED, V58, P2119, DOI 10.1016/j.socscimed.2003.09.001
+   Gregson S, 2002, LANCET, V359, P1896, DOI 10.1016/S0140-6736(02)08780-9
+   HALKITIS PN, 2005, J URBAN HLTH    0228
+   HALL A, 1985, SOCIAL SUPPORT HLTH
+   Hays RB, 2003, AM J COMMUN PSYCHOL, V31, P301, DOI 10.1023/A:1023966905973
+   INCIARDI JA, 1995, ARCH SEX BEHAV, V24, P249, DOI 10.1007/BF01541599
+   Jana S, 2004, AIDS EDUC PREV, V16, P405, DOI 10.1521/aeap.16.5.405.48734
+   Jordan-Harder B, 2004, AIDS, V18, P287, DOI 10.1097/00002030-200401230-00019
+   Kelly J.G., 2000, HDB COMMUNITY PSYCHO, DOI DOI 10.1007/978-1-4615-4193-6_7
+   KELLY JA, 1992, AM J PUBLIC HEALTH, V82, P1483, DOI 10.2105/AJPH.82.11.1483
+   KELLY JA, 1991, AM J PUBLIC HEALTH, V81, P168, DOI 10.2105/AJPH.81.2.168
+   KELLY JG, 1986, AM J COMMUN PSYCHOL, V14, P581, DOI 10.1007/BF00931335
+   Kincaid DL, 2000, SOC SCI MED, V50, P215, DOI 10.1016/S0277-9536(99)00276-2
+   Latkin C, 1996, J ACQ IMMUN DEF SYND, V13, P273, DOI 10.1097/00042560-199611010-00010
+   LATKIN C, 1994, SEX TRANSM DIS, V21, P161, DOI 10.1097/00007435-199405000-00006
+   Latkin CA, 1996, DRUG ALCOHOL DEPEN, V42, P175, DOI 10.1016/S0376-8716(96)01279-3
+   Latkin CA, 2005, HEALTH PSYCHOL, V24, P96, DOI 10.1037/0278-6133.24.1.96
+   Latkin CA, 2003, INT J STD AIDS, V14, P770, DOI 10.1258/09564620360719831
+   Latkin CA, 2003, HEALTH PSYCHOL, V22, P332, DOI 10.1037/0278-6133.22.4.332
+   Latkin CA, 2003, J HEALTH SOC BEHAV, V44, P34, DOI 10.2307/1519814
+   Latkin CA, 1999, AM J DRUG ALCOHOL AB, V25, P463, DOI 10.1081/ADA-100101873
+   LATKIN CA, 2002, AIDS BEHAV, V6, P321
+   Lugalla J, 2004, SOC SCI MED, V59, P185, DOI 10.1016/j.socscimed.2003.10.033
+   March J.G., 1959, ORGANIZATIONS
+   Mays Vickie M, 2004, J Black Psychol, V30, P78, DOI 10.1177/0095798403260265
+   Moody J, 2001, SOC NETWORKS, V23, P261, DOI 10.1016/S0378-8733(01)00042-9
+   Myer L, 2002, AIDS CARE, V14, P773, DOI 10.1080/0954012021000031840
+   NEAIGUS A, 1994, SOC SCI MED, V38, P67, DOI 10.1016/0277-9536(94)90301-8
+   Parker RG, 2000, AIDS, V14, pS22, DOI 10.1097/00002030-200006001-00004
+   Pearlman DN, 2002, J ADOLESCENT HEALTH, V31, P31, DOI 10.1016/S1054-139X(02)00379-8
+   Rhodes T, 1999, AIDS, V13, pS259
+   Rhodes T., 2002, INT J DRUG POLICY, V13, P85, DOI [10.1016/S0955-3959(02)00007-5, DOI 10.1016/S0955-3959(02)00007-5]
+   RICHWALD GA, 1988, J SEX RES, V25, P169, DOI 10.1080/00224498809551453
+   Robinson NJ, 1997, AIDS, V11, P1064
+   ROFES E, 1998, J PSYCHOL HUMAN SEXU, V10, P133
+   Rogers E.M., 2010, DIFFUSION INNOVATION
+   Rojanapithayakorn W, 1996, AIDS, V10, P1, DOI 10.1097/00002030-199601000-00001
+   Rothenberg R B, 1995, NIDA Res Monogr, V151, P3
+   Rothenberg RB, 1998, AIDS, V12, P1529, DOI 10.1097/00002030-199812000-00016
+   SEIBT AC, 1995, AIDS CARE, V7, pS85
+   Sivaram S, 2004, AIDS EDUC PREV, V16, P137, DOI 10.1521/aeap.16.2.137.29393
+   Stoneburner RL, 2004, SCIENCE, V304, P714, DOI 10.1126/science.1093166
+   Sumartojo E, 2000, AIDS, V14, pS3, DOI 10.1097/00002030-200006001-00002
+   TRICKETT EJ, 1997, APPL ECOLOGICAL PSYC, P139
+   TRICKETT EJ, 2002, J PRIM PREV, V23, P157, DOI DOI 10.1023/A:1019964215050
+   TURNER JC, 1975, EUR J SOC PSYCHOL, V5, P5, DOI 10.1002/ejsp.2420050102
+   WALLACE R, 1993, SOC SCI MED, V37, P887, DOI 10.1016/0277-9536(93)90143-R
+   Warwick I, 2003, AIDS EDUC PREV, V15, P320, DOI 10.1521/aeap.15.5.320.23824
+   Wasserman Stanley., 1994, ADV SOCIAL NETWORK A
+   Weir SS, 2003, AIDS, V17, P895, DOI 10.1097/00002030-200304110-00015
+   Wicker AW, 1987, HDB ENV PSYCHOL
+   WINETT RA, 1995, APPL PREV PSYCHOL, V4, P233, DOI 10.1016/S0962-1849(05)80025-3
+   Youm Y, 2002, SEX TRANSM DIS, V29, P689, DOI 10.1097/00007435-200211000-00012
+   Zimmerman MA, 1995, AM J COMMUN PSYCHOL, V23, P581, DOI 10.1007/BF02506983
+NR 80
+TC 167
+Z9 170
+U1 1
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0954-0121
+EI 1360-0451
+J9 AIDS CARE
+JI Aids Care-Psychol. Socio-Med. Asp. Aids-Hiv
+PY 2005
+VL 17
+SU 1
+BP S102
+EP S113
+DI 10.1080/09540120500121185
+PG 12
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychology, Multidisciplinary; Respiratory System; Social Sciences,
+   Biomedical
+WE Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychology; Respiratory System; Biomedical Social Sciences
+GA 947BF
+UT WOS:000230616500010
+PM 16096122
+DA 2022-02-11
+ER
+
+PT C
+AU Liu, W
+AF Liu, W
+GP IEEE
+TI Trustworthy service selection and composition - Reducing the entropy of
+   service-oriented Web
+SO 2005 3RD IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL INFORMATICS (INDIN)
+LA English
+DT Proceedings Paper
+CT 3rd IEEE International Conference on Industrial Informatics (INDIN)
+CY AUG 10-12, 2005
+CL Perth, AUSTRALIA
+SP IEEE
+DE trust; e-service; emergent intelligence; social network analysis
+AB Current c-service selection relies upon service registries to make recommendations. It is almost impossible to capture and make use of valuable personal service evaluations. e-service composition on the other hand employs intelligent planning for composition plan generation, which fails to scale in a large open environment such as the Web. In this paper, we consider trust evaluation and propagation as the fundamental driving force for service selection and composition, and proposed a framework that will facilitate the growth and evolution of a service-oriented network into a self-organised trustworthy virtual collaboration environment. Viewing a service-oriented network (Grid or Web) as an ecosystem, this framework is based on personalised service recommendation, social network analysis and emergent intelligence.
+C1 Univ Western Australia, Sch Comp Sci & Software Engn, Crawley, Australia.
+RP Liu, W (corresponding author), Univ Western Australia, Sch Comp Sci & Software Engn, Crawley, Australia.
+EM wei@csse.uwa.edu.au
+CR BERNERSLEE T, 2001, SEMANTIC WEB
+   BERNSTEIN A, 2005, 7 INT C WIRTSCH WI20
+   Burt R. S., 2001, NETWORKS MARKETS CON
+   CASTELFRANCHI C, 1995, COMMITMENTS INDIVIDU
+   CASTELFRANCHI C, 1998, PRINCIPLES TRUST MAS
+   FLUGGE M, 2004, INT WORKSH SEM WEB T
+   GARSHOL LM, 2004, LIVING TOPIC MAPS RD
+   GRAND BL, 2002, VISUALIZING SEMANTIC, P49
+   Liu W, 2002, LECT NOTES ARTIF INT, V2333, P290
+   ODELL J, 1999, DISTRIBUTED COMP JAN, P51
+   Odell J., 1998, DISTRIBUTED COMP OCT, P45
+   PARUNAK HVD, 2001, 5 INT C AUT AG AG 20
+   Ponnekanti Shankar R., 2002, 11 WORLD WID WEB C H
+   RAO J, 2003, 1 INT C WEB SERV LAS
+   RASMUSSON L, 1996, WORKSH NEW SEC PAR
+   Rea T, 1998, BRIT TELECOMMUN ENG, V17, P150
+   REINGEN PH, 1986, J MARKETING RES, V23, P370, DOI 10.2307/3151813
+   ROTHCHILD M, 1995, COLL BOARD
+   SREENATH RM, 2004, J WEB SEMANTICS, V1
+   WU D, 2003, WORKSH PLANN WEB SER
+   YOLUM P, 2003, LECT NOTES COMPUTER
+   YOSHIMURA KL, 2003, AI 2003 ADV ARTIFICI
+   [No title captured]
+NR 23
+TC 7
+Z9 7
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 0-7803-9094-6
+PY 2005
+BP 104
+EP 109
+PG 6
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Engineering, Industrial; Engineering,
+   Manufacturing
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BDJ11
+UT WOS:000233706000018
+DA 2022-02-11
+ER
+
+PT J
+AU Skelcher, C
+AF Skelcher, C
+TI Jurisdictional integrity, polycentrism, and the design of democratic
+   governance
+SO GOVERNANCE-AN INTERNATIONAL JOURNAL OF POLICY ADMINISTRATION AND
+   INSTITUTIONS
+LA English
+DT Article; Proceedings Paper
+CT Transatlantic Policy Consortium Colloquium on Liberalization and
+   Democratic Governance
+CY JUN, 2003
+CL German Univ Adm Sci, Speyer, GERMANY
+HO German Univ Adm Sci
+ID PARTNERSHIPS; LEGITIMACY; NETWORKS; POLITICS; POLICY
+AB Political and managerial processes are creating polycentric networks that transcend the traditional ideas of jurisdictional integrity in state-centric systems. Jurisdictional integrity refers to the political and legal competence of a unit of government to operate within a spatial and functional realm. An intrinsic element of jurisdictional integrity in a democratic system is that citizens are enabled to give consent to and pass judgment on the exercise of authority by that governmental entity. The concept of jurisdictional integrity is shown to apply differentially in relation to the traditional institutions of government in comparison with the emergent complex of quasi-governmental agencies, special purpose bodies and multi-organizational collaborations. Distinctions are drawn between club, agency and polity entities within this emergent organizational field. Problems to be faced in the design of institutions for network governance under conditions of polycentrism are identified and solutions reviewed. The potential of consociationalism to enable collective decision making across a polycentric system is highlighted. Informal norms are shown to be essential in enabling such a system for network governance to operate effectively.
+C1 Univ Birmingham, Birmingham B15 2TT, W Midlands, England.
+RP Skelcher, C (corresponding author), Univ Birmingham, Birmingham B15 2TT, W Midlands, England.
+CR Ansell C, 2000, GOVERNANCE, V13, P303, DOI 10.1111/0952-1895.00136
+   Bache I, 2001, SCAND POLIT STUD, V24, P215, DOI 10.1111/1467-9477.00054
+   Bache Ian, 2004, MULTILEVEL GOVERNANC
+   Blatter J, 2003, GOVERNANCE, V16, P503, DOI 10.1111/1468-0491.00226
+   CASELLA A, 1992, EUR ECON REV, V36, P639, DOI 10.1016/0014-2921(92)90122-D
+   Chaskin RJ, 1997, URBAN AFF REV, V32, P631, DOI 10.1177/107808749703200502
+   Considine M, 2002, GOVERNANCE, V15, P21, DOI 10.1111/1468-0491.00178
+   Foster, 1997, POLITICAL EC SPECIAL
+   Glass N., 1999, CHILD SOC, V13, P242, DOI [DOI 10.1002/CHI569, DOI 10.1002/(SICI)1099-0860(199909)13:4<257::AID-CHI569>3.0.CO;2-C]
+   Hajer M, 2003, POLICY SCI, V36, P175, DOI 10.1023/A:1024834510939
+   HANSEN AD, 2003, UNPUB POLITY POLITIC
+   HELD D, 1999, DEMOCRACY GLOBAL ORD
+   Hooghe L, 2003, AM POLIT SCI REV, V97, P233
+   Huxham C, 2000, ACAD MANAGE J, V43, P1159, DOI 10.2307/1556343
+   Jackson R, 1999, POLIT STUD-LONDON, V47, P431, DOI 10.1111/1467-9248.00211
+   JACOBS B, 1999, STRATEGY PARTNERSHIP
+   Kickert W., 1997, MANAGING COMPLEX NET
+   Krasner S., 1999, SOVEREIGNTY ORG HYPO
+   LIJPHART A, 1979, CAN J POLIT SCI, V12, P499, DOI 10.1017/S0008423900051714
+   LIJPHART A, 2002, ACTA POLIT, V37, P11
+   Lijphart Arend, 1968, POLITICS ACCOMMODATI
+   Lowndes V, 1998, PUBLIC ADMIN, V76, P313, DOI 10.1111/1467-9299.00103
+   MAASS A, 1959, AREA POWER THEORY LO
+   March J. G., 1989, REDISCOVERING I
+   MATHUR N, 2003, JOINT SESS EUR CONS
+   MCGARRY J, 2001, NO IRELAND DIVIDED W
+   Moe RC, 2001, PUBLIC ADMIN REV, V61, P290, DOI 10.1111/0033-3352.00031
+   MOLONEY W, 2000, POLITICAL STUDIES, V48, P802
+   Moore M.H., 1995, CREATING PUBLIC VALU
+   Olsen J.P., 1995, DEMOCRATIC GOVERNANC
+   OSTROM V, 1961, AM POLIT SCI REV, V55, P831, DOI 10.2307/1952530
+   Pierre J., 2000, GOVERNANCE POLITICS
+   Pollitt C., 2001, J COMP POLICY ANAL, V3, P271, DOI DOI 10.1023/A:1012301400791
+   RANSON S, 1994, MANAGEMENT PUBLIC DO
+   Rhodes R. A. W., 1997, UNDERSTANDING GOVERN
+   Rosamond Ben., 2000, THEORIES EUROPEAN IN
+   Sartori G., 1997, COMP CONSTITUTIONAL
+   Scott J, 1998, J COMMON MARK STUD, V36, P175, DOI 10.1111/1468-5965.00105
+   SHARAD M, 1995, INDIAN J ANIMAL PROD, V11, P31
+   Shaw K, 2002, LOCAL GOV STUD, V28, P1, DOI 10.1080/714004142
+   Skelcher C, 2003, LOCAL GOV STUD, V29, P1, DOI 10.1080/03003930308559386
+   Skelcher C., 1998, APPOINTED STATE QUAS
+   SNAPE S, 2003, POL STUD ASS C LEIC
+   Sorensen E., 2003, INT J PUBLIC ADMIN, V26, P609, DOI DOI 10.1081/PAD-120019238
+   Sullivan H., 2002, WORKING BOUNDARIES C
+   Teisman GR, 2002, PUBLIC ADMIN REV, V62, P197, DOI 10.1111/0033-3352.00170
+   WEALE A, 1998, POLITICAL THEORY EUR
+   [No title captured]
+   [No title captured]
+   2002, GOVERNANCE NEW REFOR
+NR 50
+TC 159
+Z9 160
+U1 4
+U2 29
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0952-1895
+EI 1468-0491
+J9 GOVERNANCE
+JI Governance-Int. J. Policy Adm. I.
+PD JAN
+PY 2005
+VL 18
+IS 1
+BP 89
+EP 110
+DI 10.1111/j.1468-0491.2004.00267.x
+PG 22
+WC Political Science; Public Administration
+WE Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Government & Law; Public Administration
+GA 878AD
+UT WOS:000225617400004
+DA 2022-02-11
+ER
+
+PT J
+AU Yang, LF
+AF Yang, Li-Fang
+TI Embedded autonomy and ecological modernisation in Taiwan
+SO INTERNATIONAL JOURNAL OF ENVIRONMENT AND SUSTAINABLE DEVELOPMENT
+LA English
+DT Article
+DE ecological modernisation; Taiwan environmental policy; high-tech
+   industries; newly industrialising country; developmental state; embedded
+   autonomy; sustainable development; environmental management;
+   environmental movement
+AB This paper aims to study the progression of Taiwan's environmental reform and how the political economy and social institutions affect this process. With its unique political economy structure, namely the embedded autonomy, Taiwan's environmental reforms may provide a valuable empirical contribution to Ecological Modernisation Theory (EMT) debates. Key questions addressed in this study are: First, the extent to which environmental reform is taking place in Taiwan in general, and in high-tech industries in particular, and what mechanisms bring about the reforms. Second, the extent to which EMT concepts are applicable in evaluating and shaping Taiwan's environmental protection efforts. Data were collected from public documents and interviews with government and industry leaders. This study concludes that ecological modernisation is taking place in Taiwan, especially in the high-tech sector, led by state technical and economic agents. Embedded social network relationships between the State and firms assist firms in taking the path of ecological modernisation.
+C1 [Yang, Li-Fang] Univ Wisconsin, Dept Sociol, 8128 Social Sci Bldg,1180 Observ Dr, Madison, WI 53706 USA.
+RP Yang, LF (corresponding author), Univ Wisconsin, Dept Sociol, 8128 Social Sci Bldg,1180 Observ Dr, Madison, WI 53706 USA.
+EM lyang@ssc.wisc.edu
+CR BAHRO R, 1984, RED GREEN
+   Beck U., 1992, RISK SOC
+   Beck U., 1992, THEOR CULT SOC, V9, P79
+   Beck U., 1994, REFLEXIVE MODERNIZAT
+   Benton T., 1997, ISA RC 24 C SOC THEO
+   Bluhdorn I., 1997, ISA RC 24 C SOC THEO
+   Bolandm J., 1994, CAPITALISM SOCIALISM, V5, P135
+   BOOKCHIN M, 1989, REMAKING SOC
+   Buttel FH, 2000, GEOFORUM, V31, P57, DOI 10.1016/S0016-7185(99)00044-5
+   Byster L., 1999, FORUM APPL RES PUBLI, V14, P69
+   Catton Jr W. R., 1980, AM BEHAV SCI, V24, P14
+   Giddens A., 1998, 3 WAY
+   GRABHER G, 1993, EMBEDDED FIRM SOCIOE
+   Hsiao H-H. M., 1992, B I ETHNOLOGY ACAD S, V74, P1
+   HUBER J, 1989, TECHNOL FORECAST SOC, V35, P365, DOI 10.1016/0040-1625(89)90072-3
+   Lovins Amory B., 1977, SOFT ENERGY PATHS DU
+   Meadows D.H., 1972, LIMITS GROWTH
+   Mol A. P. J., 1999, ISA R24 C ENV STAT P
+   Mol A. P. J., 2000, ENVIRON POLIT, V9, P1, DOI DOI 10.1080/09644010008414510
+   Mol A.P.J., 1996, ENVIRON POLIT, V5, P302, DOI [DOI 10.1080/09644019608414266, 10.1080/09644019608414266]
+   MOL APJ, 1993, INT SOCIOL, V8, P431, DOI 10.1177/026858093008004003
+   Paterson W., 1991, INT MARKETS GLOBAL F
+   PATERSON WE, 1991, EUR J POLIT RES, V19, P307, DOI 10.1111/j.1475-6765.1991.tb01190.x
+   Spaargaren G., 2000, ENV GLOBAL MODERNITY
+   World Commission on Environment and Development, 1987, OUR COMMON FUTURE
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU INDERSCIENCE ENTERPRISES LTD
+PI GENEVA
+PA WORLD TRADE CENTER BLDG, 29 ROUTE DE PRE-BOIS, CASE POSTALE 856, CH-1215
+   GENEVA, SWITZERLAND
+SN 1474-6778
+EI 1478-7466
+J9 INT J ENVIRON SUSTAI
+JI Int. J. Environ. Sustain. Dev.
+PY 2005
+VL 4
+IS 3
+SI SI
+BP 310
+EP 330
+DI 10.1504/IJESD.2005.007743
+PG 21
+WC Environmental Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Environmental Sciences & Ecology
+GA VD2PW
+UT WOS:000436504700006
+DA 2022-02-11
+ER
+
+PT J
+AU Sherlock, KL
+   Kirk, EA
+   Reeves, AD
+AF Sherlock, KL
+   Kirk, EA
+   Reeves, AD
+TI Just the usual suspects? Partnerships and environmental regulation
+SO ENVIRONMENT AND PLANNING C-GOVERNMENT AND POLICY
+LA English
+DT Article
+ID GOVERNANCE; POLITICS
+AB Governance based on partnerships has become a characteristic of late capitalist societies. This paper explores how this new collaborative approach to environmental regulation creates challenges for existing technocratic policy networks, drawing on an organisational ethnography of the Scottish Environment Protection Agency. Our findings suggest partnership working is embraced for four reasons-to improve understanding of problems, to develop resource-efficient management solutions, to improve implementation of these solutions, and to improve communication and trust within the policy network. However, there appear to be three areas of difficulty. First, decisionmaking appears to be dominated by technocratic public servants; second, practical reasons for partnership, rather than embracing the normative arguments for discursive democracy, motivate most participants; and, third, participants are yet to experience the benefits of partnerships. We suggest three key areas which might address these problems and contribute towards a more successful implementation of the collaborative approach to regulation, namely to provide incentives for partnership working (demonstrating how the perceived benefits outweigh costs), developing interorganisational trust and providing organisational support (resources). We conclude with an analysis of the constraints that must be overcome to develop effective partnerships for environmental management, particularly the need to extend the network beyond the 'usual suspects' and to embrace the normative dimensions of participatory democracy.
+C1 Macaulay Inst, Socio Econ Res Programme, Aberdeen AB15 8QH, Scotland.
+   Univ Dundee, Dept Law, Dundee DD1 4HN, Scotland.
+   Univ Dundee, Dept Geog, Dundee DD1 4HN, Scotland.
+RP Sherlock, KL (corresponding author), Macaulay Inst, Socio Econ Res Programme, Aberdeen AB15 8QH, Scotland.
+EM k.sherlock@macaulay.ac.uk; e.a.kirk@dundee.ac.uk;
+   a.d.reeves@dundee.ac.uk
+RI Kirk, Elizabeth/AAU-5063-2020
+OI Kirk, Elizabeth/0000-0002-2195-7608
+CR Bainbridge V., 2000, TRANSFORMING BUREAUC
+   Barnes B., 1982, SCI CONTEXT READINGS
+   Beck U., 1994, REFLEXIVE MODERNIZAT
+   Beierle TC, 2001, ENVIRON PLANN C, V19, P515, DOI 10.1068/c5s
+   BESSANT J, 2001, P TASA C SYDN 13 15
+   Bulkeley H, 2003, ENVIRON VALUE, V12, P143, DOI 10.3197/096327103129341261
+   BUTCHER H, 1993, COMMUNITY PUBLIC POL, P73
+   Carmin J., 1999, ENVIRON POLIT, V8, P101, DOI [10.1080/09644019908414440, DOI 10.1080/09644019908414440]
+   Carolan MS, 2003, ENVIRON VALUE, V12, P225, DOI 10.3197/096327103129341306
+   Carter N., 2001, POLITICS ENV IDEAS A
+   Collins D, 1998, ORG CHANGE SOCIOLOGI
+   *COUNC EUR UN, 2000, 200060EC COUNC EUR U
+   DEAN M, 2003, HDB SOCIAL THEORY, P324
+   DOWNIE A, 2001, COMMUNITY CONSULATAI
+   Dryzek J., 2000, DELIBERATIVE DEMOCRA
+   Eckersley R., 1999, ENVIRON POLIT, V8, P24, DOI DOI 10.1080/09644019908414460
+   Elster J., 1998, DELIBERATIVE DEMOCRA
+   Fisher F., 2000, CITIZENS EXPERTS ENV
+   Gass G, 1997, WORLD DEV, V25, P115, DOI 10.1016/S0305-750X(96)00090-3
+   Giddens Anthony., 1998, 3 WAY RENEWAL SOCIAL
+   Habermas, 1984, THEORY COMMUNICATIVE, V1
+   HELD D, 1995, DEMOCRACY GOLBAL ORD
+   HIRST P, 1997, STATISM PLURALISM DE
+   *IDS, 2003, THEOR CRIT ID PART
+   JASONOFF S, 1999, ENVIRON VALUE, V8, P135
+   Kates RW, 2001, SCIENCE, V292, P641, DOI 10.1126/science.1059386
+   KIRK EA, 2003, CURRENT LEGAL ISSUES, V5, P557
+   Kooiman J., 2000, DEBATING GOVERNANCE, P138, DOI DOI 10.1017/S000305540281036X
+   Koontz TM, 2003, LANDSCAPE URBAN PLAN, V66, P19, DOI 10.1016/S0169-2046(03)00081-1
+   KRAMER L, 2000, EUROPEAN COMMISSION, P183
+   Mol APJ, 1997, INT HDB ENV SOCIOLOG, P138
+   Murphy J., 1998, REGULATORY REALITIES
+   Newman J., 2001, MODERNISING GOVERNAN
+   ONeill J., 1997, VALUING NATURE EC ET, P75
+   ORIORDAN T, 1998, AGENDA, V21, P2
+   Pain R, 2003, AREA, V35, P46, DOI 10.1111/1475-4762.00109
+   Pellizzoni L, 2003, ENVIRON VALUE, V12, P195, DOI 10.3197/096327103129341298
+   Perez JDG, 2000, J RURAL STUD, V16, P485, DOI 10.1016/S0743-0167(00)00014-0
+   Pierre J., 2000, DEBATING GOVERNANCE
+   Pugh KB, 1997, FRESHWATER QUALITY: DEFINING THE INDEFINABLE?, P9
+   *RCEP, 1998, SETT ENV STAND 21 RE
+   REEVES A, 2003, R000223838 ESRC U DU
+   *SCOTT EX, 2003, UNPUB POL FIN MAN RE
+   *SCOTT EX, 2001, RIV LOCHS COASTS FUT
+   SHARP L, 2002, LOCAL ENVIRON, V7, P7
+   SHERLOCK K, 2003, INT WAT ASS C RIV BA
+   SHERLOCK K, 2002, INT WAT ASS C RIV BA
+   SHERLOCK K, 2002, P SCI WAT POL C NORW
+   SHERLOCK K, 2003, SOCIOLOGICAL RES ONL
+   Smith G, 2001, ENVIRON POLIT, V10, P72, DOI DOI 10.1080/714000562
+   Snary C., 2002, J ENVIRON PLANN MAN, V45, P267, DOI [DOI 10.1080/, DOI 10.1080/09640560220116332]
+   Stokes S., 1998, DELIBERATIVE DEMOCRA, P123
+   TAIT J, 2001, 24 SCOTT U POL RES A
+   UNECE, 1998, CONV ACC INF PUBL PA
+   van den Hove S, 2000, ECOL ECON, V33, P457, DOI 10.1016/S0921-8009(99)00165-2
+   VANBEEK P, 1996, MULTIPLE LAND USE CA, P147
+   Vatn A, 2004, LAND ECON, V80, P1, DOI 10.2307/3147141
+   VATN A, 2002, 7 BIENN C INT SOC EC
+   Ward H, 2003, POLIT STUD-LONDON, V51, P282, DOI 10.1111/1467-9248.00424
+   Warren C., 2002, MANAGING SCOTLANDS E
+   *WCED, 1987, COMM FUT
+   Weber N, 2002, FOREST POLICY ECON, V4, P1, DOI 10.1016/S1389-9341(01)00070-3
+   WOODGATE G, 1997, INT HDB ENV SOC, P1
+   Yearley S, 2003, ENVIRON VALUE, V12, P247, DOI 10.3197/096327103129341315
+   Yearley S., 1997, INT HDB ENV SOCIOLOG, P227
+NR 65
+TC 39
+Z9 40
+U1 0
+U2 14
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0263-774X
+EI 1472-3425
+J9 ENVIRON PLANN C
+JI Environ. Plan. C-Gov. Policy
+PD OCT
+PY 2004
+VL 22
+IS 5
+BP 651
+EP 666
+DI 10.1068/c03110s
+PG 16
+WC Environmental Studies; Public Administration
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public Administration
+GA 868NC
+UT WOS:000224919300002
+DA 2022-02-11
+ER
+
+PT J
+AU Miotti, LL
+AF Miotti, LL
+TI Patagonia: a paradox for building images of the first Americans during
+   the Pleistocene/Holocene Transition
+SO QUATERNARY INTERNATIONAL
+LA English
+DT Article; Proceedings Paper
+CT Meeting on the Archaeology of the Pleistocene/Holocene Transition
+CY DEC, 2000
+CL ARGENTINA
+ID SOUTH; ARCHAEOLOGY; SETTLEMENT; ARGENTINA; POLLEN; PAMPA; AGE
+AB South America appears as a paradox for building the images of the New World's human colonization. It is a paradox, because according, to the models of the Peopling of America, it was the last part of the continent to be occupied by humans, but ill spite of that sites as old as or older than the "Clovis" sites from North America, started to be discovered since the last century. It is a laboratory, because the amount of the Pleistocene archaeological sites is as great as their variability. Ill this way, since the last two decades. the hemi-continent is placed in a privileged situation for questioning and reconstructing theories concerning the first Americans. and also for answering questions as when did they arrive, how did they arrive, what strategies (social, ecological and economic) did they develop for the colonization of such different environments, which were their ideas for achieving this colonization. and how does their use of space and resources reflect in the archaeological record. The model "Clovis the first", brings an image of unidirectional migration of the first people, from the great North American plains to southern Patagonia. For a decade, this model showed itself insufficient for explaining the great archaeological variability of America and especially for referring those South American contexts directly to a Clovis migration. The new findings in South America are creating more anomalies for this model, which predicts that the arrival of Pleistocene hunter gatherers should be around 10,000 years in Patagonia. The object of this paper is to discuss these models in view of South American archaeological evidence, and thus propose answers for removing the paradox. The axes which are considered are: the geographical and chronological distribution of the main localities of Patagonia and South America; the function of the sites within regional mobility systems; the use of subsistence resources; the differences in the circulation of lithic raw materials; and the different taphonomical histories. These characteristics will be compared with models of social network among mobile peoples and American paleolandscapes at the Pleistocene/Holocene transition and a new alternative route of peopling in South America will be presented. In this sense, the data of Patagonia are highly relevant. (C) 2002 Elsevier Science Ltd and INQUA. All rights reserved.
+C1 Natl Univ La Plata, Museo La Plata, Fac Ciencias Nat & Museo, Dept Cient Arqueol, RA-1900 La Plata, Argentina.
+RP Miotti, LL (corresponding author), Natl Univ La Plata, Museo La Plata, Fac Ciencias Nat & Museo, Dept Cient Arqueol, Paseo Bosque S-N, RA-1900 La Plata, Argentina.
+EM miotti@netverk.com.ar
+CR Adovasio J., 1993, KOSTENKI CLOVIS UPPE, P199
+   Adovasio J.M., 1978, EARLY MAN AM CIRCUM, P140
+   Aldenderfer M, 1999, QUATERN INT, V53-4, P11, DOI 10.1016/S1040-6182(98)00004-4
+   Ameghino Florentino, 1918, ANTIGUEDAD HOMBRE PL
+   ANDREEV AY, 1994, BIOCHEMISTRY-MOSCOW+, V59, P1
+   Andrefsky Jr W., 1991, N AM ARCHAEOL, V12, P129
+   ARDILA G, 1991, REV MUSEO ORO COLOMB, P2
+   Aschero C., 1996, ARQUEOLOGIA SOLO PAT, P17
+   ASCHERO C, 1988, ESTUD ATACAMENOS, V7, P62
+   ATENCIO LN, 1994, REV CHIL HIST NAT, V67, P367
+   ATENCIO LN, 1994, ESTUD ATACAMENOS, V11, P11
+   BELL RE, 1965, INVESTIGACIONES ARQU
+   BETTINGER RL, 1983, AM ANTIQUITY, V48, P830, DOI 10.2307/279785
+   BETTINGER RL, 1982, AM ANTIQUITY, V47, P485, DOI 10.2307/280231
+   BIANCHI N, 1999, CIENCIA HOY BUENOS A, V9, P12
+   Bianchi NO, 1997, AM J PHYS ANTHROPOL, V102, P79
+   BINFORD LR, 1980, AM ANTIQUITY, V45, P4, DOI 10.2307/279653
+   BIRD J, 1988, VIAJES ARQUEOLOGIA C
+   BIRD J, 1979, REV NACL CULTURA, V6, P7
+   Bird J, 1938, GEOGR REV, V28, P250, DOI 10.2307/210474
+   BOADO FC, 1993, TRABAJOS PREHIST, V50, P39
+   Bonnichsen R., 1991, CLOVIS ORIGINS ADAPT, P309
+   BORRERO L, 1995, NEW WORLD PLACES PEO, P207
+   BORRERO L, 1983, ARQUEOLOGIA CONT, V1, P3
+   BORRERO L, 1991, HUNTERS RECENT, P373
+   BORRERO L., 1989, ARCHAEOLOGICAL APPRO, P258
+   Borrero LA, 1996, INTERD CONT, P339
+   Borrero LA, 1998, QUATERN INT, V50, P191
+   BORROMEI A, 1998, UNPUB PALINOLOGIA LO
+   BRADLEY BA, 1993, KOSTENKI CLOVIS UPPE, P251
+   BRYAN A, 1978, 1 U ALB DEP ANTHR, P1
+   Bryan A, 1995, CURRENT RES PLEISTOC, V12, P6
+   BRYAN A, 1986, NEW EVIDENCE PLESITO
+   CARDICH A, 1977, TOMO CENTARIO MUSE A, V1, P39
+   Cardich A., 1987, ESTUDIOS ATACAMENOS, V8, P98, DOI DOI 10.22199/S07181043.1987.0008.00008
+   Cardich A., 1980, HIST GENERAL PERU, V1, P29
+   CARDICH A, 1991, ANTROPOLOGIA, V21, P39
+   Cardich A., 1973, RELACIONES SOC ARGEN, V7, P87
+   CATTANEO GR, 1999, 12 C NAC ARQ ARG ACT, P16
+   Chauchat C., 1988, PERUVIAN PREHISTORY, P41
+   Cinq-Mars, 1979, CAN J ARCHAEOL, V3, P1
+   CIVALERO MT, 2003, QUATERNARY INT
+   Clapperton C., 1992, ANALES I PATAGONIA, V21, P113
+   CLAPPERTON R, 1993, QUATERNARY GEOLOGY G
+   Clark D. W., 1991, CLOVIS ORIGINS ADAPT, P35
+   DEAPARICIO F, 1933, PUBLICACIONES MUSEO, V3, P71
+   DILLEHAY T, 1984, INVESTIGACION CIENCI, V99, P70
+   Dillehay T. D., 1997, MONTE VERDE LATE PLE, V2
+   Dincauze D. F., 1993, KOSTENKI CLOVIS, P279
+   Driver J.C., 1996, EARLY HUMAN OCCUPATI, P21
+   Driver JC, 1998, QUATERN INT, V50, P141
+   Erlandson JM, 2001, J ARCHAEOL RES, V9, P287, DOI 10.1023/A:1013062712695
+   FLANNERY K, 1983, PRECERAMIC FORMATIVE
+   FLEGENHEIMER N, 1991, 10 C NAC ARQ ARG CAT
+   FLEGENHEIMER N, 2003, QUATERNARY INT
+   Flegenheimer N., 1987, CURRENT RES PLEISTOC, V4, P148
+   Flegenheimer Nora, 1994, REV MUSEO HIST NATUR, VXIII, P14
+   FRISON G, 1990, REV ARQUEOLOGIA AM, V2, P9
+   Frison G.C., 1993, KOSTENKI CLOVIS, P237
+   GAMBLE C, 1990, WORLD 18000 BP, V1, P3
+   GAMBLE C, 1993, CULTURAL TRANSFORMAT, P37
+   Gamble C, 1994, TIMEWALKERS PREHISTO
+   GAMBLE C, 1993, KOSTENKI CLOVIS, P313
+   Garcia Alejandro, 1995, CURRENT RES PLEISTOC, V12, P13
+   GARCIA JV, 1991, CAMBIO CULTURAL 4 2
+   Gnecco C, 1999, QUATERN INT, V53-4, P3, DOI 10.1016/S1040-6182(98)00003-2
+   GNECCO C, 1995, PARADIGMA PALEOINDIO, P37
+   Goebel T, 1999, EVOL ANTHROPOL, V8, P208
+   GOEBEL T, 1991, CLOVIS ORIGINS ADAPT, P46
+   Gradin C.J., 1980, RELACIONES SOC ARGEN, VXIV, P177
+   GREENBERG JH, 1986, CURR ANTHROPOL, V27, P477, DOI 10.1086/203472
+   GRUHN R, 1989, 1 WORLD SUMM C PEOPL, P6
+   GRUHN R, 1986, NEW EVIDENCES PLEIST, P283
+   GUIDON N, 1986, NATURE, V321, P769, DOI 10.1038/321769a0
+   GUIDON N, 1986, NEW EVIDENCE PLEISTO, P00157
+   HAYNES V, 1974, QUATERNARY RES, V4, P378, DOI 10.1016/0033-5894(74)90023-4
+   HAYNES V, 1967, CARBON 14 DATES EARL
+   HAYNES V, 1984, S NEW EXPT REC E PAL
+   HERMO D, 1999, 12 C NAC ARQ ARG ACT, P475
+   Heusser C., 1993, PRAEHISTORIA, V1, P206
+   HEUSSER CJ, 1987, NATURE, V328, P609, DOI 10.1038/328609a0
+   INGOLD T, 1993, WORLD ARCHAEOL, V25, P152, DOI 10.1080/00438243.1993.9980235
+   Ingold Tim., 1986, APPROPRIATION NATURE, P130
+   JOHNSON E, 1991, CLOVIS ORIGINS ADAPT, P215
+   JOHNSON MF, 1997, RESEARCH REPORT SERI, V8
+   LAGIGLIA H, 1999, ACTA 12 C NAC ARQ AR, V3, P251
+   LAVALLEE D, 1985, TELARMARCHAY CHASSEU
+   Lavallee D., 1999, B I FRANCAIS ETUDES, V28, P13
+   LYNCH T, 1991, 1 AM SEARCH RES, pCH10
+   LYNCH TF, 1990, AM ANTIQUITY, V55, P12, DOI 10.2307/281490
+   MANCINI MV, 1993, REV PALAEOBOT PALYNO, V77, P129, DOI 10.1016/0034-6667(93)90061-X
+   MANSURFRANCHOMM.ME, 1983, THESIS U BORDEAUX 1
+   MARSHALL D, 1993, BONES BEHAV ETHNOARC, P228
+   Martin P.S., 1984, P354
+   MARTIN PS, 1973, SCIENCE, V179, P969, DOI 10.1126/science.179.4077.969
+   MARTINEZ G, 1999, ARQUEOLOGIA PAMPEANA, P71
+   Martinez Gustavo A., 1997, Current Research in the Pleistocene, V14, P53
+   MASSONE M, 1984, CULTURAS INDIGENAS P, P131
+   Mayer-Oakes W, 1986, NEW EVIDENCE PLEISTO, P133
+   MAZZANTI D, 1997, 12 C NAC ARQ ARG LIB
+   Mazzanti D.L., 1999, 12 C NAC ARQ ARG ACT, P149
+   Mazzanti Diana, 1997, ARQUEOLOGIA PAMPEANA, P127
+   Meltzer, 1991, 1 AM SEARCH RES, P209
+   MENGONI GONALONS G., 1988, PROCESOS CONTEXTOS O, P17
+   Miotti L, 1999, QUATERN INT, V53-4, P53, DOI 10.1016/S1040-6182(98)00007-X
+   MIOTTI L, 2001, ANCIENT EVIDENCE PAL
+   MIOTTI L, 1993, PIEDRA MUSEO OCUPACI, P54
+   MIOTTI L, 1991, MODELOS ECOLOGICO EV, P6
+   MIOTTI L, 1998, ZOOARQUELOGIA MESETA, P1
+   MIOTTI L, 1997, CURRENT RES PLEISTOC, V14, P62
+   MIOTTI L, IN PRESS NEW DIRECTI
+   Miotti L., 1995, CURR RES PLEISTOCENE, V12, P37
+   MIOTTI L, 1997, ACT 12 C NAC ARQ ARG
+   MIOTTI L, IN PRESS EFECTO ZOOM
+   MIOTTI L, 2003, QUATERNARY INT
+   MIOTTI L, 2001, IN PRESS PALEOAMERIC
+   MIOTTI L, 1994, ACT MEM 11 C NAC ARQ, V1, P37
+   Miotti L., 1996, ARQUEOLOGIA SOLO PAT, P27
+   MIOTTI L, 1994, ACT MEM 11 C NAC ARQ, V1, P8
+   MIOTTI L, 1999, SOPLANDO VIENTO, P102
+   MIOTTI L, 2001, IN PRESS ANCIENT EVI
+   MIOTTI L, 1990, COMO CUANDO DONDE PR, P4
+   MIOTTI L, 1999, 12 C NAC ARQ ARG ACT, P54
+   Miotti Laura., 1992, CURR RES PLEISTOCENE, V9, P30
+   Morrow JE, 1999, AM ANTIQUITY, V64, P215, DOI 10.2307/2694275
+   MULLERBECK H, 1969, SCIENCE, V152, P3726
+   NAMI H, 1997, CHUNGARA, V26, P145
+   Nami H. G., 1987, ANALES I PATAGONIA, V17, P73
+   NAMI HG, 1995, CURR ANTHROPOL, V36, P661, DOI 10.1086/204413
+   Nami Hugo G., 1991, Anales del Instituto de la Patagonia Serie Ciencias Sociales, V20, P117
+   NEME G, 2001, THESIS U NACL PLATA
+   NEVES WA, 1991, J HUM EVOL, V21, P261, DOI 10.1016/0047-2484(91)90107-7
+   OCHSENIUS C, 1979, FINAL REPORTS 1976 E
+   Paez MM, 1999, QUATERN INT, V53-4, P69, DOI 10.1016/S1040-6182(98)00008-1
+   PANZA JL, 1982, INFORME GEOLOGICO HO
+   PANZA JL, 1998, HOJA GEOLOGICA MONUM
+   PAUNERO R, 2001, IN PRESS ANCIENT EVI
+   Paunero R., 1996, ANALES ARQUEOLOGIA E, V50-51, P189
+   PAUNERO RS, 1993, ANALES ARQUEOLOGIA E, V48, P73
+   Politis G., 1991, CLOVIS ORIGINS ADAPT, P287
+   Politis G., 1998, TRABAJOS PREHIST, V55, P5, DOI DOI 10.3989/TP.1998.V55.I2.300
+   Politis G.G, 1995, ANCIENT PEOPLES LAND, P187
+   Politis GG, 1998, LAT AM ANTIQ, V9, P111, DOI 10.2307/971990
+   Prieto Alfredo, 1991, Anales del Instituto de la Patagonia Serie Ciencias Sociales, V20, P75
+   Prous A, 1999, QUATERN INT, V53-4, P21, DOI 10.1016/S1040-6182(98)00005-6
+   RABASSA J, 1987, QUATERNARY S AM ANTA, V5, P269
+   RICHARDSON JB, 1978, EARLY MAN AM CIRCUM, P274
+   RICK J, 1988, PERUVIAN PREHISTORY, P1
+   Roosevelt AC, 1996, SCIENCE, V272, P373, DOI 10.1126/science.272.5260.373
+   Rowley S., 1985, ETUDES INUIT STUDIES, V9, P3
+   SANTORO C, 1989, CULTURAS CHILE PREHI
+   SCHEINSOHN V, 1998, THESIS FACULTAD FILO, P320
+   Shulter R., 1983, EARLY MAN NEW WORLD, P13
+   Soffer O., 1993, KOSTENKI CLOVIS UPPE
+   Soffer O., 1985, UPPER PALAEOLITHIC C
+   STANFORD D, 1991, CLOVIS ORIGINS ADAPT, P00001
+   STERN C, 1999, ACT 3 JORN ARQ PAT R
+   Storck P. L., 1991, CLOVIS ORIGINS ADAPT, P153
+   STOTHERT KE, 1985, AM ANTIQUITY, V50, P613, DOI 10.2307/280325
+   Trigger B., 1992, HIST PENSAMIENTO ARQ
+   Turner ChristyG., 1992, ICE AGE HUNTERS ROCK, P7
+   Turner II C. G., 1983, EARLY MAN NEW WORLD, P147
+   URREGO GC, 1986, NEW EVIDENCE PLEISTO, P115
+   [No title captured]
+   [No title captured]
+   [No title captured]
+NR 166
+TC 28
+Z9 29
+U1 0
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1040-6182
+EI 1873-4553
+J9 QUATERN INT
+JI Quat. Int.
+PY 2003
+VL 109
+BP 147
+EP 173
+AR PII S1040-6182(02)00210-0
+DI 10.1016/S1040-6182(02)00210-0
+PG 27
+WC Geography, Physical; Geosciences, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI); Conference Proceedings Citation Index - Science (CPCI-S)
+SC Physical Geography; Geology
+GA 707HR
+UT WOS:000184505700014
+DA 2022-02-11
+ER
+
+PT J
+AU Cook, BJ
+AF Cook, BJ
+TI The politics of market-based environmental regulation: Continuity and
+   change in air pollution control policy conflict
+SO SOCIAL SCIENCE QUARTERLY
+LA English
+DT Article
+AB Objectives. To expand scholarly attention to a neglected area of environmental policy and politics, I attempt to test several empirical propositions drawn from the small body of existing research on the politics of market-based environmental regulation. Methods. I analyze public comments on a recent U.S. Environmental Protection Agency regulatory action guiding states on the design of various market-based air pollution control programs. I focus on the types of commenting organizations and the nature, extent, and foundations of their support or opposition to market-based regulatory instruments. Results. I Find more support For than opposition to the use of economic incentive programs in air pollution control. The support from business commenters is not surprising, but the level of support expressed by state regulators departs from previous research findings. Environmental groups are the principal dissenters. Overall, the findings suggest both change and continuity in the politics of air Pollution control policymaking, with sonic possibility of a shift in the contours of the advocacy coalitions in the pollution control policy network. Conclusions. Market-based environmental regulation is still an evolving phenomenon in American public policy. Further research on the politics of its development is in order, and the opportunities to pursue such research are substantial.
+C1 Clark Univ, Dept Govt, Worcester, MA 01610 USA.
+RP Cook, BJ (corresponding author), Clark Univ, Dept Govt, 950 Main St, Worcester, MA 01610 USA.
+CR COOK BJ, 1986, AM POLIT QUART, V14, P294, DOI 10.1177/1532673X8601400402
+   Cook Brian J., 1988, BUREAUCRATIC POLITIC
+   *EPA, 2001, EPA452R01001
+   *EPA, 1999, EPA452D99001
+   *EPA, 1998, FED REG         1027, V63, P57514
+   *EPA, 1996, EPA800R96001
+   JENKINSSMITH HC, 1993, KPOLICY CHANGE LEARN, P237
+   Johnson Stephen M., 1999, WASH LEE L REV, V56, P111
+   KELMAN S, 1981, WHAT PRICE INCENTIVE
+   KEOHANE NO, 2000, EC ENV SELECTED READ, P559
+   Sabatier P.A., 1993, POLICY CHANGE LEARNI
+NR 11
+TC 7
+Z9 7
+U1 1
+U2 6
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN 0038-4941
+J9 SOC SCI QUART
+JI Soc. Sci. Q.
+PD MAR
+PY 2002
+VL 83
+IS 1
+BP 156
+EP 166
+DI 10.1111/1540-6237.00076
+PG 11
+WC Political Science; Sociology
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Sociology
+GA 523FN
+UT WOS:000173943500011
+DA 2022-02-11
+ER
+
+PT J
+AU Macdonald, D
+AF Macdonald, D
+TI Coerciveness and the selection of environmental policy instruments
+SO CANADIAN PUBLIC ADMINISTRATION-ADMINISTRATION PUBLIQUE DU CANADA
+LA English
+DT Article
+AB Degree of coerciveness is often used to categorize policy instruments. This article analyses the relative coerciveness associated with the instruments used by municipal, provincial and federal governments in Canada to address three major successive pollution threats-sewage, industrial toxic waste, and greenhouse-gas emissions-that have appeared on the policy agenda over the course of the past century. During that time, there has been an overall trend of declining coerciveness, with one exception. In the case of toxic waste, established regulatory regimes were made more coercive some years after they were first put in place. These findings can best be explained by theories of instrument choice that look to interactions among relevant state and societal actors in the policy network. It is suggested that one aspect of that process in particular-the balance of power between regulator and "regulatee"-is of importance in explaining relative coerciveness. We must first understand the ability of the regulator to coerce before we can explain the selection of more or less coercive instruments.
+C1 Univ Toronto, Innis Coll, Environm Studies Program, Toronto, ON, Canada.
+RP Macdonald, D (corresponding author), Univ Toronto, Innis Coll, Environm Studies Program, Toronto, ON, Canada.
+CR ATKINSON MM, 1996, POLICY STUDIES CANAD, P198
+   BATOR P, 1979, THESIS U TORONTO, P65
+   Brand Jeanne L., 1965, DOCTORS STATE BRIT M
+   Coleman W.D., 1990, POLICY COMMUNITIES P
+   COTTON R, 1996, ENV MANAGEMENT CANAD
+   DOERN GB, 1992, CANADIAN PUBLIC POLI, P97
+   DUNCAN L, 1990, INTO FUTURE ENV LAW
+   ESTRIN D, 1993, ENV TRIAL CITIZENS G
+   Gibson R. B., 1999, VOLUNTARY INITIATIVE
+   HARRISON K, 1996, PASSING BUCK FEDERAL, P140
+   HEATHCOTE IW, 1997, ENV CANADIAN SOC, P64
+   HOBERG G, 1994, CAN PUBLIC POL, V20, P119, DOI 10.2307/3552101
+   HOOD CC, 1983, TOOLS GOVT, P118
+   HOOVER K, 1997, POWER IDENTITY POLIT, P10
+   HOWLETT, STUDYING PUBLIC POLI, P153
+   KERNAGHAN K, 1991, PUBLIC ADM CANADA, P117
+   Linder S.H., 1989, J PUBLIC POLICY, V9, P35, DOI [https://doi.org/10.1017/S0143814X00007960, DOI 10.1017/S0143814X00007960]
+   MACDONALD D, 1991, POLITICS POLLUTION
+   MACDONALD D, 1997, 2 BIENN C CAN SOC EC, P19
+   McDougall Heather, 1990, ACTIVISTS ADVOCATES
+   O'Toole L.J., 1998, J PUBLIC POLICY, V18, P213, DOI [https://doi.org/10.1017/S0143814X98000117, DOI 10.1017/S0143814X98000117]
+   *ONT MED ASS, 1998, HLTH EFF GROUND LEV
+   *ORG EC COOP DEV, 1992, ENV POL APPL EC INST
+   PROCTOR RN, 1995, CANC WARS POLITICS S, P50
+   *PROV DEP HLTH, 1935, CANADIAN PUBLIC HLTH, V26, P110
+   Ramesh M, 1995, STUDYING PUBLIC POLI, P82
+   RYAN A, 1993, COMPANION CONT POLIT, P293
+   Shields J., 1998, SHRINKING STATE GLOB
+   Swinson Arthur, 1965, HIST PUBLIC HLTH
+   Trebilcock Michael J., 1982, CHOICE GOVERNING INS
+   WINFIELD M, 1994, CANADIAN J POLITICAL, V27, P132
+   Wohl Anthony., 1983, ENDANGERED LIVES PUB
+   WOODSIDE K, 1986, CAN J POLIT SCI, V19, P775, DOI 10.1017/S0008423900055141
+NR 33
+TC 5
+Z9 6
+U1 0
+U2 4
+PU INST PUBLIC ADMINISTRATION CANADA
+PI TORONTO
+PA REVUE DE L INST ADMINSTRATION PUBLIQUE DU CANADA, 1075 RUE BAY ST, STE
+   401, TORONTO, ONTARIO M5S 2B1, CANADA
+SN 0008-4840
+J9 CAN PUBLIC ADMIN
+JI Can. Public Adm.-Adm. Publique Can.
+PD SUM
+PY 2001
+VL 44
+IS 2
+BP 161
+EP 187
+DI 10.1111/j.1754-7121.2001.tb01572.x
+PG 27
+WC Public Administration
+WE Social Science Citation Index (SSCI)
+SC Public Administration
+GA 467ZP
+UT WOS:000170733900002
+DA 2022-02-11
+ER
+
+PT J
+AU Egdell, J
+AF Egdell, J
+TI Consultation on the countryside premium scheme: creating a 'market' for
+   information
+SO JOURNAL OF RURAL STUDIES
+LA English
+DT Article
+DE structure-conduct-performance analysis; agri-environment; consultation
+AB This paper explores the agri-environmental policy network in Scotland, focusing on the public consultation concerning a new agri-environmental scheme. It applies one of the standard frameworks of market analysis, structure-conduct-performance (SCP) analysis, to explore how the interactions between policy actors, and particularly the provision of information, affect policy outcomes. An important stage in policy development is gathering information for the design and implementation of subsequent policy measures. In the UK, there has been increasing use of public consultation procedures as a means to obtain information from interest groups and individuals. This can be considered in terms of the government issuing a request or 'demand' for information, which is then 'supplied' by interested parties; a 'market' for information is thus created. In the spring of 1996, a consultation was undertaken by the Scottish Office Agriculture, Environment and Fisheries Department (SOAEFD), over a proposed new agri-environmental scheme, the Countryside Premium Scheme. This paper reports the results of an analysis of this consultation in terms of an information 'market'. This 'market' appeared to have an oligopolistic structure, with some barriers to entry, and involved considerable costs to the groups involved. Agricultural and environmental interest groups both appeared to have some impact on the policy outcome, though the type of impacts differed. (C) 2000 Elsevier Science Ltd. All rights reserved.
+C1 Univ Aberdeen, Dept Agr, Aberdeen AB24 5HA, Scotland.
+RP Egdell, J (corresponding author), Univ Aberdeen, Dept Agr, 581 King St, Aberdeen AB24 5HA, Scotland.
+EM j.egdell@abdn.ac.uk
+CR BAIN JS, 1958, IND ORG
+   BALDOCK D, 1996, EUROPEAN ENV CAP REF
+   Baumgartner F.R., 1993, AGENDAS INSTABILITY
+   BECKER GS, 1989, POLITICAL EC REGULAT
+   COX G, 1986, AGR PEOPLE POLICIES
+   EKELUND RB, 1990, ECONOMIES
+   ENNEW C, 1995, UK FOOD DRINK IND SE
+   Grant W., 1989, PRESSURE GROUPS POLI
+   Hay D., 1991, IND EC ORG THEORY EV
+   Lagerlof J., 1997, EUR J POLIT ECON, V13, P615
+   Maloney WA., 1994, J PUBLIC POLICY, V14, P17, DOI DOI 10.1017/S0143814X00001239
+   MILLER C, 1987, LOBBYING GOVT UNDERS
+   Sabatier P.A., 1993, POLICY CHANGE LEARNI
+   Sawyer M. C., 1981, EC IND FIRMS
+   Seargeant J., 1998, CONSULTING PUBLIC GU
+   Smith M. J., 1990, POLITICS AGR SUPPORT
+   *SOAEFD, 1997, COUNTR PREM SCHEM IN
+   WHITELEY PF, 1987, PRESSURE POOR
+   Winter M., 1996, RURAL POLITICS POLIC
+   WINTERS LA, 1993, CURRENT ISSUES AGR E
+NR 20
+TC 5
+Z9 5
+U1 0
+U2 5
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0743-0167
+J9 J RURAL STUD
+JI J. Rural Stud.
+PD JUL
+PY 2000
+VL 16
+IS 3
+BP 357
+EP 366
+DI 10.1016/S0743-0167(99)00039-X
+PG 10
+WC Geography; Regional & Urban Planning
+WE Social Science Citation Index (SSCI)
+SC Geography; Public Administration
+GA 330AR
+UT WOS:000087941100008
+DA 2022-02-11
+ER
+
+PT J
+AU Montpetit, E
+   Coleman, WD
+AF Montpetit, E
+   Coleman, WD
+TI Policy communities and policy divergence in Canada: Agro-environmental
+   policy development in Quebec and Ontario
+SO CANADIAN JOURNAL OF POLITICAL SCIENCE-REVUE CANADIENNE DE SCIENCE
+   POLITIQUE
+LA English
+DT Article
+AB Despite what would appear to be pressures for policy convergence in Canada due to growing continental integration and market competitiveness, agro-environmental policies in the provinces of Quebec and Ontario have become increasingly divergent over the past decade. Quebec's policies are comprehensive, coercive in approach and intrusive in the production process; those in Ontario, while comprehensive, rely more on industry self-regulation and shy away from intruding significantly into farming practices. Three institutional factors help explain this policy divergence. First, Quebec's main environmental act enabled the Ministry of the Environment to participate in the agro-environmental policy community's "subgovemment," while the Ministry of the Environment in Ontario remained in the "attentive public." Second. the agricultural policy network in Ontario took on many attributes of closed bipartite corporatism during the 1990s, thereby enhancing the power potential of Ontario's farmers. Third, path dependence related to policy feedback predisposed Ontario to self-regulatory approaches, but favoured strong statist policies in Quebec. The combination of these institutional differences creates distinct negotiation settings in the two provinces. Consequently, in Ontario, policy discussions tend to focus on wealth generation to the exclusion of distributive justice, while in contrast, Quebec's institutions focus more on distributive issues. perhaps at the expense of aggregate value creation.
+C1 Ecole Natl Adm Publ, Montreal, PQ H3T 3E5, Canada.
+   McMaster Univ, Dept Polit Sci, Hamilton, ON L8S 4M4, Canada.
+RP Montpetit, E (corresponding author), Ecole Natl Adm Publ, 4750 Ave Henri Julien, Montreal, PQ H3T 3E5, Canada.
+CR *AGR CAN, 1989, GROW TOG, P1
+   CIMON J, 1990, ZONAGE AGR DEV URBAI
+   Coleman WD, 1998, J EUR PUBLIC POLICY, V5, P632, DOI 10.1080/13501769880000061
+   COLEMAN WD, 1995, AUST J POLIT SCI, V30, P242, DOI 10.1080/00323269508402335
+   COLEMAN WD, 1994, EUR J POLIT RES, V26, P31, DOI 10.1111/j.1475-6765.1994.tb01204.x
+   COLEMAN WD, 1995, POLITIQUE SOC, V28, P37
+   COLEMAN WD, 1996, J PUBLIC POLICY, V16, P273
+   GAGON AG, 1994, QUEBEC ETAT SOC, P430
+   GARRETT G, 1998, PARTISAN POLITICS GL, P129
+   Garrett G., 1996, INT DOMESTIC POLITIC
+   *GOV ONT, 1996, RESP ENV PROT CONS P
+   HASSENTEUFEL P, 1995, RESEAUX POLITIQUE PU, P91
+   Kenis PN., 1991, POLICY NETWORKS EMPI, P25
+   KESTEMAN JP, 1984, HIST SYNDICALISME AG, P286
+   LATOUCHE D, 1990, BAZAR ANCIENS CANADI, P149
+   LEHMBRUCH G, 1984, ORDER CONFLICT CONT, P62
+   *OECD, 1995, SUST AGR CONC ISS PO, P27
+   Ontario Farm Environment Coalition, 1992, OUR FARM ENV AG
+   Pierson Paul, 1994, DISMANTLING WELFARE, P39
+   SCHARPF F, 1997, GMES REAL ACTORS PLA, P15
+   SKOGSTAD G, 1992, CANADIAN ENV POLICY, P51
+   SKOGSTAD G, 1990, POLICY COMMUNITIES P, P59
+   SOROOS MS, 1997, ENV POLICY 1990S, P291
+   *STAND COMM AGR, 1984, SOIL RISK
+   *STAT CAN, 1997, 93358XPB STAT CAN
+   TONER G, 1996, BORDER CROSSINGS INT, P110
+   TROUGHTON MJ, 1995, RESOURCE ENV MANAGEM, P174
+   WINFIELD M, 1994, CAN J POLIT SCI, V27, P129, DOI 10.1017/S0008423900006247
+NR 28
+TC 11
+Z9 11
+U1 0
+U2 5
+PU WILFRID LAURIER UNIV PRESS
+PI WATERLOO
+PA 75 UNIVERSITY AVENUE WEST, WATERLOO, ON N2L 3C5, CANADA
+SN 0008-4239
+J9 CAN J POLIT SCI
+JI Can. J. Polit. Sci.-Rev. Can. Sci. Polit.
+PD DEC
+PY 1999
+VL 32
+IS 4
+BP 691
+EP 714
+DI 10.1017/S0008423900016954
+PG 24
+WC Political Science
+WE Social Science Citation Index (SSCI)
+SC Government & Law
+GA V3088
+UT WOS:000171721300003
+DA 2022-02-11
+ER
+
+PT J
+AU Edenhofer, O
+   Jaeger, CC
+AF Edenhofer, O
+   Jaeger, CC
+TI Power shifts: the dynamics of energy efficiency
+SO ENERGY ECONOMICS
+LA English
+DT Article; Proceedings Paper
+CT 2nd Open Meeting of the Human Dimensions of Global Environmental Change
+   Research Community
+CY JUN, 1997
+CL LAXENBURG, GERMANY
+DE technical change; social conflict; government control; power
+ID CO2
+AB Induced technical change is crucial for tackling the problem of timing in environmental policy. However, it is by no means obvious that the state has the ability to impose its will concerning technical change on the other relevant actors. Therefore, we conceptualize power in a non-linear model with social conflict and induced technical change. The model shows how economic growth, business cycles and innovation waves interact in the dynamics of energy efficiency. We assess three different ways of government control: energy taxes, energy and labor subsidies, and energy caps. Energy taxes help to select more energy efficient technologies. However, a successful selection of such technologies presupposes that they are available in the pool of technologies. As for energy subsidies, their existence helps to explain why in contemporary economies labor productivity grows faster than energy efficiency. With an energy cap, the social network of the relevant agents may be stabilized via social norms. It seems plausible that innovation waves comprise several business cycles and that such a wave is currently in the making. Proposals to postpone policies for improving energy efficiency increase the risk of energy inefficient lock-in effects. (C) 1998 Elsevier Science B.V. All rights reserved.
+C1 Tech Univ Darmstadt, D-64287 Darmstadt, Germany.
+   Swiss Fed Inst Environm Sci & Technol, EAWAG, CH-8600 Dubendorf, Switzerland.
+RP Edenhofer, O (corresponding author), Tech Univ Darmstadt, Petersenstr 30, D-64287 Darmstadt, Germany.
+EM edenhofer@ifs.tu-darmstadt.de
+RI Edenhofer, Ottmar/E-1886-2013
+OI Edenhofer, Ottmar/0000-0001-6029-5208
+CR ALLEN PM, 1975, B MATH BIOL, V37, P389, DOI 10.1007/BF02459521
+   ALLEN PM, 1976, P NATL ACAD SCI USA, V73, P655
+   BRASSEL KH, 1998, SOCIAL SCI MICROSIMU
+   CARRARO C, 1994, EUR ECON REV, V38, P545, DOI 10.1016/0014-2921(94)90090-6
+   Dixit A.K., 1994, INVESTMENT UNCERTAIN
+   EDENHOFER O, 1996, UMWELTSOZIOLOGIE KOL, P390
+   FISHER AC, 1987, J ENVIRON ECON MANAG, V14, P183, DOI 10.1016/0095-0696(87)90015-5
+   FLASCHEL P, 1993, MACRODYNAMICS
+   Goodwin R.M., 1989, ESSAYS NONLINEAR EC
+   Goodwin R. M, 1967, SOCIALISM CAPITALISM
+   GOODWIN RM, 1991, RETHINKING ECONOMICS, P138
+   Grubb M, 1997, ENERG POLICY, V25, P159, DOI 10.1016/S0301-4215(96)00106-1
+   Hall P., 1994, INNOVATION EC EVOLUT
+   HOURCADE JC, 1993, ENERG POLICY, V21, P309, DOI 10.1016/0301-4215(93)90252-B
+   JAEGER CC, 1995, TAMING DRAGON TRANSF
+   JORGENSON DW, 1963, AM ECON REV, V53, P247
+   KIRMAN AP, 1992, J ECON PERSPECT, V6, P117, DOI 10.1257/jep.6.2.117
+   KOLSTAD CD, 1992, 920112 U ILL DEP EC
+   LUND D, 1991, STOCHASTIC MODELS OP
+   MANNE A, 1996, BUYING GREENHOUSE IN
+   MOULLIN B, 1996, FDN DISTRIBUTED ARTI
+   Nordhaus WilliamD., 1994, MANAGING GLOBAL COMM
+   PINDYCK RS, 1996, SUNK COSTS SUNK BENE
+   Roy W.G., 1997, SOCIALIZING CAPITAL
+   Schneider SH, 1997, NATURE, V389, P13, DOI 10.1038/37861
+   Scott M. F. G, 1989, NEW VIEW EC GROWTH
+   SHAH A, 1981, ECON J, V91, P1006, DOI 10.2307/2232506
+   SILVERBERG G, 1984, NONLINEAR MODELS FLU, P192
+   Simon H., 1996, SCI ARTIFICIAL
+   Solow R., 1990, NONLINEAR MULTISECTO, P31
+   von Prittwitz V., 1990, KATASTROPHENPARADOX
+   Weber Max, 1972, WIRTSCHAFT GESELLSCH
+   Wigley TML, 1996, NATURE, V379, P240, DOI 10.1038/379240a0
+NR 33
+TC 12
+Z9 15
+U1 0
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0140-9883
+J9 ENERG ECON
+JI Energy Econ.
+PD DEC
+PY 1998
+VL 20
+IS 5-6
+BP 513
+EP 537
+DI 10.1016/S0140-9883(98)00013-9
+PG 25
+WC Economics
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 154YF
+UT WOS:000077917800004
+DA 2022-02-11
+ER
+
+PT J
+AU Daugbjerg, C
+AF Daugbjerg, C
+TI Linking policy networks and environmental policies: Nitrate policy
+   making in Denmark and Sweden 1970-1995
+SO PUBLIC ADMINISTRATION
+LA English
+DT Article
+AB The policy network literature has provided important insight into the way in which public policy is made in Western societies. Most network studies have focused on processes within networks and have paid little attention to the conceptualization of policy outcomes and the theoretical link between network type and policy type. This article defines and categorizes environmental policy and suggests a proposition on the link between network types and environmental policy types. It is argued that the existence of tight and closed policy communities in sectors subject to environmental regulation is associated with the introduction of low cost environmental policies. In contrast, open and loose issue networks are associated with high cost environmental policies.
+C1 Univ Aarhus, Dept Polit Sci, Aarhus, Denmark.
+RP Daugbjerg, C (corresponding author), Univ Aarhus, Dept Polit Sci, Aarhus, Denmark.
+RI Daugbjerg, Carsten/E-5035-2015
+OI Daugbjerg, Carsten/0000-0003-3869-6034
+CR ANDERSEN MS, 1991, VANDMILJOPLANEN FRA
+   BRESSERS HTA, 1995, POLICY NETWORKS CHOI
+   Cerny P. G., 1990, CHANGING ARCHITECTUR
+   DAMGAARD E, 1978, SCANDINAVIAN POLITIC, V1, P285, DOI DOI 10.1111/SCPS.1978.1.ISSUE-4
+   Daugbjerg C, 1997, GOVERNANCE, V10, P123, DOI 10.1111/0952-1895.341997034
+   DAUGBJERG C, 1995, NORDISK ADM TIDSSKRI, V76, P33
+   DAUGBJERG C, 1998, IN PRESS COMP POLICY
+   Daugbjerg C., 1998, POLICY NETWORKS PRES
+   Doern GB, 1983, CANADIAN PUBLIC POLI
+   DOWDING K, 1995, POLIT STUD-LONDON, V43, P136, DOI 10.1111/j.1467-9248.1995.tb01705.x
+   ELMORE RF, 1987, POLICY STUDIES REV, V7, P174
+   *FOLK MILJ, 1973, FOLKETINGSTIDENE, V124
+   HECLO H, 1978, NEW AM POLITICAL SYS
+   Hood Christopher, 1983, TOOLS GOVT
+   HOWLETT M, 1994, POLICY STUDIES REV, V12, P3
+   JORDAN AG, 1990, J THEORETICAL POLITI, V2, P319
+   JORDAN G, 1992, EUR J POLIT RES, V21, P7, DOI 10.1111/j.1475-6765.1992.tb00286.x
+   LEMBRUCH G, 1991, POLITICAL CHOICE I R
+   Leone RA., 1986, WHO PROFITS WINNERS
+   Linder S.H., 1989, J PUBLIC POLICY, V9, P35, DOI [https://doi.org/10.1017/S0143814X00007960, DOI 10.1017/S0143814X00007960]
+   LOWI TJ, 1964, WORLD POLIT, V16, P677, DOI 10.2307/2009452
+   LOWI TJ, 1972, PUBLIC ADMIN REV, V32, P298, DOI 10.2307/974990
+   MARSH D, 1996, UNPUB UNDERSTANDING
+   Micheletti Michele, 1990, SWEDISH FARMERS MOVE
+   Mitnick, 1993, CORPORATE POLITICAL
+   PEDERSEN JF, 1987, PA MINISTERENS VEGNE
+   Rhodes R. A. W., 1981, CONTROL POWER CENTRA
+   RHODES RAW, 1992, WESTMINSTER WHITEHAL
+   RHODES TL, 1992, J COLLECT NEG PUB SE, V21, P1
+   ROTHSTEIN B, 1988, STATSVETENSKAPLIG TI, V91, P27
+   Sabatier P.A., 1986, J PUBLIC POLICY, V6, P21, DOI [10.1017/s0143814x00003846, DOI 10.1017/S0143814X00003846]
+   Salamon L.M., 1989, PRIVATIZATION TOOLS
+   SALAMON LM, 1981, PUBLIC POLICY, V29, P255
+   SCHNEIDER A, 1990, J POLIT, V52, P510, DOI 10.2307/2131904
+   *SFS, SVENSK FORF 1989
+   Smith M. J., 1990, POLITICS AGR SUPPORT
+   Smith M. J., 1993, PRESSURE POWER POLIC
+   STEEN A, 1988, LANDBRUKET STATEN SO
+   SVENDSEN GT, 1996, IN PRESS PUBLIC CHOI
+   *SWED GOV, 1988, RIKSD 1987 88
+   Vedung E., 1997, CARROTS STICKS SERMO
+   VEDUNG E, 1991, UTVARDERING POLITIK
+   WILSON JQ, 1980, POLTIICS REGULATION
+   Yin R., 1994, CASE STUDY RES DESIG
+   1992, LOVTIDENDE A
+   [No title captured]
+   1987, LOVTIDENDE A
+NR 47
+TC 24
+Z9 24
+U1 1
+U2 4
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 0033-3298
+J9 PUBLIC ADMIN
+JI Public Adm.
+PD SUM
+PY 1998
+VL 76
+IS 2
+BP 275
+EP 294
+DI 10.1111/1467-9299.00101
+PG 20
+WC Political Science; Public Administration
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Public Administration
+GA 119RU
+UT WOS:000075911600004
+DA 2022-02-11
+ER
+
+PT J
+AU Jones, A
+   Clark, JRA
+AF Jones, A
+   Clark, JRA
+TI The agri-environment regulation EU 2078/92: The role of the European
+   Commission in policy shaping and setting
+SO ENVIRONMENT AND PLANNING C-GOVERNMENT AND POLICY
+LA English
+DT Article
+AB We examine the role of the European Commission in the formulation and negotiation of a Council regulation on agri-environmental policy (EU 2078/92). We show how this regulation was shaped largely by political opportunism and financial and administrative realities, rather than by stringent environmental considerations and targets. We also reveal how the debate over EU 2078/92 has been dominated by only a few actors at supranational and national levels, and identify the key role played by the European Commission at all stages of the progress of the regulation through the route ways of the European Union's (EU) decisionmaking process. Of further interest is the way in which well-established agricultural policy communities have attempted to keep a tight rein on the development of the regulation in order to prevent this new policy area from being infiltrated by nonagricultural interests. For such interests, the regulation provided an opportunity to penetrate the long-established policy network surrounding agriculture in the EU.
+C1 UCL, Dept Geog, London WC1H 0AP, England.
+RP Jones, A (corresponding author), UCL, Dept Geog, 26 Bedford Way, London WC1H 0AP, England.
+EM ajones@geog.ucl.ac.uk; jclark2@geog.ucl.ac.uk
+CR Adshead M., 1996, W EUROPEAN POLITICS, V19, P583
+   BRINKHORST L, 1991, SUBSIDIARITY CHALLEN, P89
+   BULMER SJ, 1994, J PUBLIC POLICY, V13, P351, DOI DOI 10.1017/S0143814X0000115X
+   *CEC, 1991, GREEN EUROPE     MAR
+   *CEC, 1992, 207892 EEC CEC
+   *CEC, 1990, PROP COUNC REG EEC I
+   *CEC, 1991, COM, P415
+   *CEC, 1985, OFFICIAL J L, V93, P1
+   Clark JRA, 1997, ENVIRON PLANN A, V29, P1869, DOI 10.1068/a291869
+   Coombes D. L., 1970, POLITICS BUREAUCRACY
+   CRAM L, 1993, POLICY POLIT, V21, P135, DOI 10.1332/030557393782453899
+   CRAM L, 1996, J PUBLIC POLICY, V3, P195
+   Heritier A., 1996, J EUROPEAN PUBLIC PO, V3, P149, DOI DOI 10.1080/13501769608407026
+   Hix S, 1994, W EUROPEAN POLITICS, V17, P1, DOI [10.1080/01402389408424999, DOI 10.1080/01402389408424999]
+   HURRELL A, 1996, W EUROPEAN POLITICS, V19, P386
+   JONES A, 1994, EUROPEAN UNION GUIDE
+   KASSIM H, 1994, WEST EUR POLIT, V17, P15
+   *MAFF, 1992, ENV NOW CTR CAP
+   MAJONE G, 1995, 952 EUI WP EUR U I D
+   MAJONE G, 1992, METROECONOMICA, V43, P131
+   Majone G., 1989, EVIDENCE ARGUMENT PE
+   Mazey S., 1993, LOBBYING EUROPEAN CO
+   Mazey Sonia, 1994, EUROPEAN COMMISSION, P169
+   NGUYENDAN G, 1993, 934 DP MAX PLANCK I
+   NUGENT N, 1989, GOVT POLITICS EUROPE
+   OBRADOVIC D, 1995, J EUROPEAN PUBLIC PO, V3, P261
+   PETERS BG, 1994, J EUROPEAN PUBLIC PO, P19
+   Peterson J., 1995, W EUROPEAN POLITICS, V18, P389
+   Peterson J., 1995, J EUROPEAN PUBLIC PO, V2, P69, DOI [DOI 10.1080/13501769508406975, 10.1080/13501769508406975]
+   Pollack M. A., 1994, J PUBLIC POLICY, V14, P95, DOI DOI 10.1017/S0143814X00007418
+   Pollack MA, 1996, GOVERNANCE, V9, P429, DOI 10.1111/j.1468-0491.1996.tb00251.x
+   RICHARDSON J, 1996, EUROPEAN UNION NATL, P26
+   ROMETSCH D, 1994, EUROPEAN COMMISSION, P202
+   Ross G, 1993, FRENCH POLITICS SOC, V11, P20
+   ROSS G, 1995, J DELORS EUROPEAN IN
+   Sainteny G., 1995, W EUROPEAN POLITICS, V18, P100, DOI [10.1080/01402389508425109, DOI 10.1080/01402389508425109]
+   SANTER J, 1991, J DEL C SUBS ORG EUR, P19
+   SASSE C, 1977, DECISION MAKING EURO
+   Smith M. J., 1990, POLITICS AGR SUPPORT
+   Smith M.P., 1996, W EUROPEAN POLITICS, V19, P563
+   SPENCE D, 1994, EUROPEAN COMMISSION, P97
+   WESTLAKE M, 1995, COUNCIL EUROPEAN UNI
+   [No title captured]
+   [No title captured]
+NR 44
+TC 10
+Z9 10
+U1 0
+U2 2
+PU PION LTD
+PI LONDON
+PA 207 BRONDESBURY PARK, LONDON NW2 5JN, ENGLAND
+SN 0263-774X
+J9 ENVIRON PLANN C
+JI Environ. Plan. C-Gov. Policy
+PD FEB
+PY 1998
+VL 16
+IS 1
+BP 51
+EP 68
+DI 10.1068/c160051
+PG 18
+WC Environmental Studies; Public Administration
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Public Administration
+GA YW932
+UT WOS:000071989200004
+DA 2022-02-11
+ER
+
+PT J
+AU Lenschow, A
+AF Lenschow, A
+TI Variation in EC environmental policy integration: Agency push within
+   complex institutional structures
+SO JOURNAL OF EUROPEAN PUBLIC POLICY
+LA English
+DT Article
+DE Cohesion Fund; environmental policy integration principle; European
+   Regional Development Fund (ERDF); institutional analysis;
+   non-governmental organizations (NGOs); Structural Funds
+AB The principle of environmental policy integration (EPI) has been adopted by the European Community and gained priority status in its fifth Environmental Action Programme. This article investigates the reasons for considerable variation in applying this principle by comparing the experience of environmental policy integration in two 'most similar' although differently evolving cases: the European Regional Development Fund and the Cohesion Fund. I argue that in order to explain substantial environmental improvement in the former case and poor compliance with the EPI principle in the latter, it is necessary to place the complex actor constellations and networks in the Community in their (micro)institutional framework. The policy network framework helps to recognize the role of actor interdependencies and chains that allowed environmental NGOs to play an influential role in the context of the Regional Fund reforms. (Micro)institutional analysis, in turn, points to the constraints experienced by a similar NGO campaign in the case of the Cohesion Fund and the opportunities opened up by recent institutional changes.
+RP Lenschow, A (corresponding author), EUROPEAN UNIV INST,ROBERT SCHUMAN CTR,VIA ROCCETTINI 9,I-50016 FIESOLE,FI,ITALY.
+CR *CEC, 1995, COM95509FIN CEC
+   *CEC, 1991, IMPR YOUR ENV US FIN
+   *CEC, 1991, B EUR COMM S, V291
+   *CEC, 1973, B EUR COMM S, V873
+   *CEC, 1996, COM95624FIN CEC
+   *CEC, 1983, OFFICIAL J EURO 0217
+   *CEC, 1992, COM92339FIN CEC
+   *CEC, 1993, COMM STRUCT FUNDS 19
+   Commission of the European Communities (CEC), 1992, COM9223FIN CEC
+   CORRIE H, 1993, UNPUB CAMPAIGNING GR
+   *COUNC EUR COMM, 1990, DECL EUR COUNC DUBL
+   *DAN PRES, 1993, DISC PAP ENV ASP CON
+   *EP, 1992, OFFICIAL J EURO 0215
+   *EP, 1993, OFFICIAL J EURO 0310
+   *EP, 1993, OFFICIAL J EURO 0118
+   *EUR COURT AUD, 1992, OFFICIAL J EURO 0923
+   Hildebrand P. M., 1993, A green dimension for the European Community: political issues and processes., P13
+   Hooghe L., 1994, J EUROPEAN PUBLIC PO, V1, P367, DOI 10.1080/13501769408406965
+   LENSCHOW A, 1996, THESIS NEW YORK U NE
+   LIJPHAR Arend, 1988, COMP POLITICS POST B, P54
+   LONG T, 1995, J EUR PUBLIC POLICY, V0002, DOI DOI 10.1080/13501769508407012
+   LOWI TJ, 1964, WORLD POLIT, V16, P677, DOI 10.2307/2009452
+   Marks G., 1992, EUROPOLITICS I POLIC, P191
+   MAZEY S, 1994, REGIONAL POLITICS PO, V4, P22
+   POLLACK M, 1995, STATE EUROPEAN UNION, V0003
+   Pollack M. A., 1994, J PUBLIC POLICY, V14, P95, DOI DOI 10.1017/S0143814X00007418
+   Richardson J., 1993, LOBBYING EUROPEAN CO, P82
+   WCED, 1987, OUR COMM FUT BRUNDTL, P1
+   Weale A., 1993, A green dimension for the European Community: political issues and processes., P45
+   *WWF, GREEN EC I INT ENV O
+   *WWF IEEP, 1990, EC STRUCT FUNDS ENV, V2
+   *WWF IEEP, 1989, REF STRUCT FUNDS ENV
+   *WWF NAT, 1993, BRIEF DAN PRES
+   *WWF T E, 1994, COM93699 WWF T E
+NR 34
+TC 30
+Z9 30
+U1 0
+U2 6
+PU ROUTLEDGE
+PI LONDON
+PA 11 NEW FETTER LANE, LONDON, ENGLAND EC4P 4EE
+SN 1350-1763
+J9 J EUR PUBLIC POLICY
+JI J. Eur. Public Policy
+PY 1997
+VL 4
+IS 1
+BP 109
+EP 127
+DI 10.1080/135017697344262
+PG 19
+WC Political Science; Public Administration
+WE Social Science Citation Index (SSCI)
+SC Government & Law; Public Administration
+GA XH571
+UT WOS:A1997XH57100007
+DA 2022-02-11
+ER
+
+PT J
+AU COLEMAN, JM
+   MINNETT, AM
+AF COLEMAN, JM
+   MINNETT, AM
+TI LEARNING-DISABILITIES AND SOCIAL COMPETENCE - A SOCIAL ECOLOGICAL
+   PERSPECTIVE
+SO EXCEPTIONAL CHILDREN
+LA English
+DT Article
+ID DISABLED CHILDREN; PEER ACCEPTANCE; SELF-CONCEPTS; HANDICAPPED-CHILDREN;
+   STUDENTS; BEHAVIOR; ADOLESCENTS; LONELINESS; DIMENSIONS; SCHOOL
+AB To explore the relationship between learning disabilities (LD) and social competence, various indexes of social and academic competence were collected from a sample of students with LD, as well as a matched sample of children without disabilities, in Grades 3-6. Measures included academic grades, teacher perceptions, peer perceptions, self-perceptions, social network outside of school, and direct observation of social interactions. Results suggest that children with LD differ from children without disabilities on virtually all indexes of academic competence, regardless of social status. In the social domain, children with LD had higher self-concept scores than did children without disabilities. Most social differences were linked to the child's peer status, independent of disability.
+RP COLEMAN, JM (corresponding author), UNIV TEXAS,SCH HUMAN DEV,DALLAS,TX 75230, USA.
+CR ASHER SR, 1984, CHILD DEV, V55, P1456, DOI 10.2307/1130015
+   BECK S, 1985, MAY MIDW PSYCH ASS C
+   BELLDOLAN DJ, 1989, DEV PSYCHOL, V25, P306, DOI 10.1037/0012-1649.25.2.306
+   BOIVIN M, 1989, CHILD DEV, V60, P591, DOI 10.2307/1130725
+   BRUCK M, 1986, HDB COGNITIVE SOCIAL, P200
+   BRYAN TH, 1978, LEARN DISABILITY Q, V1, P33, DOI 10.2307/1510961
+   BRYAN TH, 1974, J LEARN DISABIL, V7, P621, DOI 10.1177/002221947400701007
+   BUKOWSKI WM, 1984, DEV PSYCHOL, V21, P1032
+   BURSUCK W, 1989, J LEARN DISABIL, V22, P188, DOI 10.1177/002221948902200310
+   CADWELL J, 1983, J EDUC PSYCHOL, V75, P553, DOI 10.1037/0022-0663.75.4.553
+   CHAPMAN JW, 1988, REV EDUC RES, V58, P347, DOI 10.2307/1170259
+   Chess S, 1977, TEMPERAMENT DEV
+   COIE JD, 1982, DEV PSYCHOL, V18, P557, DOI 10.1037/0012-1649.18.4.557
+   COIE JD, 1983, MERRILL PALMER QUART, V29, P261
+   COLEMAN JM, 1985, J LEARN DISABIL, V18, P26, DOI 10.1177/002221948501800106
+   COLEMAN JM, 1992, J LEARN DISABIL, V25, P671, DOI 10.1177/002221949202501007
+   COLEMAN JM, 1983, J SPEC EDUC, V17, P37, DOI 10.1177/002246698301700106
+   COLEMAN JM, 1987, REM SPEC EDUC, V8, P19, DOI 10.1177/074193258700800607
+   DUDLEYMARLING CC, 1985, LEARN DISABILITY Q, V8, P189, DOI 10.2307/1510893
+   DUNN LM, 1968, EXCEPT CHILDREN, V34, P5
+   FOX CL, 1989, EXCEPT CHILDREN, V56, P50, DOI 10.1177/001440298905600108
+   GARRETT MK, 1980, LEARN DISABILITY Q, V3, P42, DOI 10.2307/1510630
+   Glass G.V., 1977, REV RES EDUC, V5, P351, DOI [10.2307/1167179, DOI 10.3102/0091732X005001351]
+   GRESHAM FM, 1986, LEARN DISABILITY Q, V9, P23, DOI 10.2307/1510398
+   HARTER S, 1982, CHILD DEV, V53, P87, DOI 10.1111/j.1467-8624.1982.tb01295.x
+   Harter S., 1985, SELF PERCEPTION PROF
+   HARTUP WW, 1983, HDB CHILD PSYCHOL SO, P00103
+   HAYVREN M, 1984, DEV PSYCHOL, V20, P844, DOI 10.1037/0012-1649.20.5.844
+   *INT COMM LEARN DI, 1987, LEARN DIS REP C
+   KEOGH BK, 1982, J EDUC MEAS, V19, P323, DOI 10.1111/j.1745-3984.1982.tb00138.x
+   KISTNER JA, 1989, J EDUC PSYCHOL, V81, P118, DOI 10.1037/0022-0663.81.1.118
+   MARSH HW, 1984, J PERS SOC PSYCHOL, V47, P213, DOI 10.1037/0022-3514.47.1.213
+   MARSH HW, 1983, J PERS SOC PSYCHOL, V45, P171
+   MCKINNEY J, 1982, LEARNING DISABILITY, V16, P45
+   MINNETT AM, 1992, UNPUB SOCIAL STATUS
+   PERLMUTTER BF, 1983, LEARN DISABILITY Q, V6, P20, DOI 10.2307/1510859
+   PULLIS M, 1982, AM EDUC RES J, V19, P165, DOI 10.2307/1162563
+   PULLIS ME, 1985, LEARNING DISABILITY, V8, P104
+   SATER GM, 1989, J SPEC EDUC, V3, P29
+   SHAVELSON RJ, 1982, J EDUC PSYCHOL, V74, P3, DOI 10.1037/0022-0663.74.1.3
+   SMITH MD, 1978, AM EDUC RES J, V15, P259, DOI 10.3102/00028312015002259
+   STRANG L, 1978, J EDUC PSYCHOL, V70, P487, DOI 10.1037/0022-0663.70.4.487
+   VAUGHN S, 1990, J EDUC PSYCHOL, V82, P101
+   WYLIE RC, 1989, MEASURES SELF CONCEP
+NR 44
+TC 6
+Z9 6
+U1 0
+U2 9
+PU COUNCIL EXCEPTIONAL CHILDREN
+PI RESTON
+PA 1920 ASSOCIATION DR, RESTON, VA 22091-1589
+SN 0014-4029
+J9 EXCEPT CHILDREN
+JI Except. Child.
+PD DEC-JAN
+PY 1993
+VL 59
+IS 3
+BP 234
+EP 246
+DI 10.1177/001440299305900307
+PG 13
+WC Education, Special; Rehabilitation
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Rehabilitation
+GA KP672
+UT WOS:A1993KP67200006
+PM 8432306
+DA 2022-02-11
+ER
+
+PT J
+AU FROUWS, J
+   VANTATENHOVE, J
+AF FROUWS, J
+   VANTATENHOVE, J
+TI AGRICULTURE, ENVIRONMENT AND THE STATE - THE DEVELOPMENT OF
+   AGRO-ENVIRONMENTAL POLICY-MAKING IN THE NETHERLANDS
+SO SOCIOLOGIA RURALIS
+LA English
+DT Article
+AB Agro-environmental policy formation is described as an interaction between the agricultural policy community and the environmental policy network. The agricultural policy community is defending its monopoly in the agricultural sector and its corporatist structure. The environmental policy network develops strategies to gain more influence in this semi-closed domain of agriculture. Agro-environmental policy formation can be seen as a subtle interweaving of environmental and agricultural biases. On the basis of a case study of the 'region-oriented approach' in a Dutch region, an illustration is provided of agro-environmental policy formation in practice. This study shows that the insulated and integrated character of the agricultural policy community is disappearing, in favour of processes of self-regulation at the regional level. Secondly the Ministries of the Environment and Agriculture are developing a common frame of reference. One of the results of this process is alienation from and conflicts with their respective constituencies.
+RP FROUWS, J (corresponding author), AGR UNIV WAGENINGEN, DEPT SOCIOL, 6700 HB WAGENINGEN, NETHERLANDS.
+RI van Tatenhove, Jan P.M./H-2106-2012
+OI van Tatenhove, Jan P.M./0000-0002-1969-3594
+CR BIEZEVELD GA, 1985, TIJDSCHRIFT MILIEU R, P256
+   Cawson Alan, 1985, ORG INTERESTS STATE
+   Cramer J, 1989, GROENE GOLF GESCHIED
+   DEBRUIN R, 1991, NIET KLEIN TE KRIJGE
+   Driessen P. P. J., 1990, LANDINRICHTING GEWOG
+   GLASBERGEN P, 1989, BELEIDSNETWERKEN RON
+   GODFROIJ AJA, 1981, NETWERKEN ORG STRATE
+   HOEKVELD GA, 1990, GELDERSE VALLEI EEN
+   HUFFEN JAM, 1990, BELEIDSNETWERKEN
+   JOUSTRA THJ, 1991, BELEID U, V2, P28
+   SCHARPF FW, 1978, INTERORGANIZATIONAL
+   SCHATTSCHNEIDER EE, 1960, SEMI SOVEREIGN PEOPL
+   Smith M. J., 1990, POLITICS AGR SUPPORT
+   van Noort W., 1988, BEVLOGEN BEWEGINGEN
+   VANTATENHOVE JPM, 1992, LAW RESOURCE AGRARIA
+   VANTATENHOVE JPM, THESIS
+   *VAU COMM, 1992, ONTW PLAN VAN AANP G
+   *VAU COMM, 1991, VERK LANDB VERK MIL
+   VERKRUISEN WG, 1977, BIJLAGE MILIEU RECHT, P8
+   World Commission on Environment and Development, 1987, OUR COMM FUT
+NR 20
+TC 19
+Z9 19
+U1 0
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0038-0199
+EI 1467-9523
+J9 SOCIOL RURALIS
+JI Sociol. Rural.
+PY 1993
+VL 33
+IS 2
+BP 220
+EP 239
+DI 10.1111/j.1467-9523.1993.tb00962.x
+PG 20
+WC Geography; Sociology
+WE Social Science Citation Index (SSCI)
+SC Geography; Sociology
+GA LM401
+UT WOS:A1993LM40100008
+DA 2022-02-11
+ER
+
+EF
