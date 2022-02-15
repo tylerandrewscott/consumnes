@@ -1,11 +1,11 @@
 
-require(devtools)        
-require(bibliometrix)
-library(data.table)
-library(pbapply)
-library(stringr)
-library(igraph)
-fls <- list.files('input/wos/policy_network_query/',full.names = T)
+
+packs <- c('devtools','data.table','pbapply','stringr','igraph','bibliometrix','Matrix','Matrix.utils','parallel','criticalpath')
+need <- packs[!packs %in% installed.packages()[,'Package']]
+lapply(need,install.packages)
+lapply(packs,require,character.only = T)
+
+fls <- list.files('input/wos/feb14_query_2/',full.names = T)
 M_list <- pblapply(fls,convert2df)
 
 M_dt <- rbindlist(M_list,fill = T,use.names = T)
@@ -13,7 +13,7 @@ M_dt <- rbindlist(M_list,fill = T,use.names = T)
 results <- biblioAnalysis(M_dt, sep = ";")
 options(width=100)
 S <- summary(object = results, k = 30, pause = FALSE)
-S$MostRelSources
+
 CR <- citations(M_dt, field = "article", sep = ";")
 library(slam)
 ref_list <- str_split(M_dt$CR,"\\s{0,};\\s{0,}")
@@ -23,43 +23,75 @@ colnames(A_citation) <- str_remove_all(colnames(A_citation),'\\.|\\,|\\s$|^\\*')
 colnames(A_citation) <- str_remove(colnames(A_citation),'\\sP[0-9]{1,}$')
 rownames(A_citation) <- M_dt$SR
 rownames(A_citation) <- str_remove_all(rownames(A_citation),'\\.|\\,|\\s$')
-library(Matrix)
-library('Matrix.utils')
+
 labels<-rownames(A_citation)
 b<-aggregate.Matrix(A_citation,labels)
 tb<-t(b)
 labels2<-rownames(tb)
 b2<-aggregate.Matrix(tb,labels2)
 A_citation_2 <- t(b2)
-A_citation_2 <- A_citation_2[,colSums(A_citation_2)>=4]
+A_citation_2 <- A_citation_2[,colSums(A_citation_2)>=5&colnames(A_citation_2)!="NO TITLE CAPTURED",]
+
 
 A_tripmat <- as.simple_triplet_matrix(A_citation_2)
-A_edgelist <- data.table(from = A_tripmat$j,to = A_tripmat$i)
-A_edgelist$to <- rownames(A_citation_2)[A_edgelist$to]
-A_edgelist$from <- colnames(A_citation_2)[A_edgelist$from]
+
+
+A_edgelist <- data.table(from = A_tripmat$i,to = A_tripmat$j)
+
+A_edgelist$to <- colnames(A_citation_2)[A_edgelist$to]
+A_edgelist$from <- rownames(A_citation_2)[A_edgelist$from]
 
 A_graph <- graph_from_edgelist(as.matrix(A_edgelist),directed = T)
+
 A_graph <- simplify(A_graph,remove.multiple = T,remove.loops = T)
-library(parallel)
-cores <- detectCores()/2
+
+cores <- detectCores() * 0.8
 g <- A_graph
 
 linegraph <- make_line_graph(g)
 sink_edges <- V(linegraph)[degree(linegraph, mode = "out") == 0]
 source_edges <- V(linegraph)[degree(linegraph, mode = "in") == 0]
 
-search_list <- pblapply(
-    source_edges,
+
+
+search_list2 <- pblapply(
+  source_edges,
     #all paths between vertices in linegraph (i.e., edges in "real" graph)
     #... that go between two vertices without visiting any vertex more than once
     all_simple_paths,
     graph = linegraph,
     to = sink_edges,
-    mode = "out",cl =  7)
+    mode = "out",cutoff = 6,cl = 30)
     
+bads <- which(sapply(search_list2,class)!='list')
+bads
+search_list2[bads] <- pblapply(
+  source_edges[bads],
+  #all paths between vertices in linegraph (i.e., edges in "real" graph)
+  #... that go between two vertices without visiting any vertex more than once
+  all_simple_paths,
+  graph = linegraph,
+  to = sink_edges,
+  mode = "out",cutoff = 6,cl = 1)
+
+t2 <- pblapply(
+  source_edges[bads,
+  #all paths between vertices in linegraph (i.e., edges in "real" graph)
+  #... that go between two vertices without visiting any vertex more than once
+  all_simple_paths,
+  graph = linegraph,
+  to = sink_edges,
+  mode = "out",cutoff = 6,cl = 30)
+
+t2
+all_simple_paths(from = source_edges[1203],to = sink_edges,graph = linegraph,mode = 'out',cutoff = -1)
+
+table(sapply(sapply(search_list2,class),is.null))
+
+
+
 str(search_list)
 spc <- tabulate(unlist(search_list),nbins = vcount(linegraph))
-
 V(linegraph)$spc <- spc
 #Select edges constituting the main path 
 #(e.g. starting from source nodes iteratively select 
@@ -67,7 +99,7 @@ V(linegraph)$spc <- spc
 # or select the path with the overall highest weight)  
  
 paths <- unlist(search_list,recursive = FALSE)
-library(criticalpath)
+
 linegraph_edgelist <- get.edgelist(linegraph)
 
 sch <- sch_new() %>%
@@ -76,19 +108,25 @@ sch <- sch_new() %>%
     name = seq(vcount(linegraph)),
     duration = V(linegraph)$spc) %>%
 sch_add_relations(
-    to = as.integer(linegraph_edgelist[,1]),
-    from   = as.integer(linegraph_edgelist[,2]))
+    to = as.integer(linegraph_edgelist[,2]),
+    from   = as.integer(linegraph_edgelist[,1]))
   
 schplan <- sch %>% sch_plan()
+V(linegraph)$mp <- schplan$activities$critical
+saveRDS(linegraph,'linegraph_5mp.rds')
+saveRDS(A_graph,'agraph.rds')
+
 
 mp <- which(schplan$activities$critical)
-
-get.edge.attribute(E(A_graph)[mp],'vnames')
 
 
 mp_graph <- subgraph.edges(A_graph, mp, delete.vertices = TRUE)
 
-V(mp_graph)
+mp_graph
+
+
+plot(mp_graph)
+grep('LUBELL',get.vertex.attribute(mp_graph,'name'),value = T)
 
 plot(mp_graph)
 table(str_extract(get.vertex.attribute(mp_graph,'name'),
@@ -99,7 +137,7 @@ str(V(mp_graph))
 as.character(V(mp_graph))
 grep('BIX',as.character(V(mp_graph)))
 
-plot(mp_graph)
+
 
 str_split(E(A_graph)[mp][1],'->')
 str_split(E(A_graph)[mp]
