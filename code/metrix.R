@@ -47,7 +47,6 @@ A_graph <- simplify(A_graph,remove.multiple = T,remove.loops = T)
 
 cores <- detectCores() * 0.8
 g <- A_graph
-
 linegraph <- make_line_graph(g)
 sink_edges <- V(linegraph)[degree(linegraph, mode = "out") == 0]
 source_edges <- V(linegraph)[degree(linegraph, mode = "in") == 0]
@@ -83,14 +82,7 @@ t2 <- pblapply(
   to = sink_edges,
   mode = "out",cutoff = 6,cl = 30)
 
-t2
-all_simple_paths(from = source_edges[1203],to = sink_edges,graph = linegraph,mode = 'out',cutoff = -1)
 
-table(sapply(sapply(search_list2,class),is.null))
-
-
-
-str(search_list)
 spc <- tabulate(unlist(search_list),nbins = vcount(linegraph))
 V(linegraph)$spc <- spc
 #Select edges constituting the main path 
@@ -99,9 +91,7 @@ V(linegraph)$spc <- spc
 # or select the path with the overall highest weight)  
  
 paths <- unlist(search_list,recursive = FALSE)
-
 linegraph_edgelist <- get.edgelist(linegraph)
-
 sch <- sch_new() %>%
   sch_add_activities(
     id = seq(vcount(linegraph)),
@@ -113,13 +103,15 @@ sch_add_relations(
   
 schplan <- sch %>% sch_plan()
 V(linegraph)$mp <- schplan$activities$critical
+
+
 saveRDS(linegraph,'linegraph_5mp.rds')
 saveRDS(A_graph,'agraph.rds')
 
+A_graph <- readRDS('graph_scratch.RDS')
+linegraph <- readRDS('linegraph_scratch.rds')
 
 mp <- which(schplan$activities$critical)
-
-
 mp_graph <- subgraph.edges(A_graph, mp, delete.vertices = TRUE)
 
 mp_graph
@@ -166,7 +158,7 @@ path_lengths <- unlist(pblapply(paths, function (x)
   
 }
 
-
+?main_search
 ms <- main_search(A_graph,cores = cores)
 
 10375 * 12 
