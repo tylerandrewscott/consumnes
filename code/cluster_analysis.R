@@ -531,7 +531,6 @@ ggsave(filename = 'output/critical_path.png',plot = gpath,width = 10,height = 10
 
 label_key <- backbone_net
 label_key <- label_key[,.(name_short,name,cluster_keywords,mp)]
+label_key <- label_key[!duplicated(label_key),]
 label_key$title <- M_dt$TI[match(label_key$name,str_replace_all(M_dt$SR,'\\,',''))]
 htmlTable(label_key,rnames = F,file = 'output/critical_path_key.html')
-
-
