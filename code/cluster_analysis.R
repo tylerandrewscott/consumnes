@@ -14,6 +14,9 @@ M_dt <- M_dt[grepl('ARTICLE',M_dt$DT),]
 M_dt$PY[is.na(M_dt$PY)] <- str_extract(M_dt[is.na(PY),]$EA,'[0-9]{4}')
 summary(M_dt$PY)
 
+grep('EL-JARD',M_dt$AU,value = F)
+M_dt$TI[541]
+
 #summary(M_dt$PY)
 results <- biblioAnalysis(M_dt, sep = ";")
 options(width=100)
