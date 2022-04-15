@@ -14,9 +14,6 @@ M_dt <- M_dt[grepl('ARTICLE',M_dt$DT),]
 M_dt$PY[is.na(M_dt$PY)] <- str_extract(M_dt[is.na(PY),]$EA,'[0-9]{4}')
 summary(M_dt$PY)
 
-grep('EL-JARD',M_dt$AU,value = F)
-M_dt$TI[541]
-
 #summary(M_dt$PY)
 results <- biblioAnalysis(M_dt, sep = ";")
 options(width=100)
@@ -334,22 +331,25 @@ time_plot_df[,cumN:=cumsum(N),by=.(cluster_phrase)]
 
 time_plot_df$cluster_phrase <- fct_inorder(time_plot_df$cluster_phrase)
 
+time_plot_df$cluster <- cluster_phrases$louv_cluster[match(time_plot_df$cluster_phrase,
+      cluster_phrases$V1)]
+
+time_plot_df$cluster_phrase <- paste0(time_plot_df$louv_cluster,': ',time_plot_df$cluster_phrase)
 if(replot){
-gg_time <- ggplot(time_plot_df[!is.na(cluster_phrase),] %>% 
+gg_time <- ggplot(time_plot_df[!is.na(louv_cluster),] %>% 
                     arrange(-PY),aes(x = PY,y = cumN,colour = cluster_phrase,group = cluster_phrase)) + 
   geom_point() + geom_path() +
   ggtitle('Cumulative count of articles by cluster in publication sample') + theme_bw() +
   scale_x_continuous(name = 'Publication year',breaks=seq(1978,2021,5)) +
   scale_y_continuous(name = '# articles published') +
   scale_color_manual(values = tableau_cols)+ 
-  
   #  guides(colour= 'none') + 
   theme(legend.position = c(0.4,0.7),
         legend.title = element_blank(),
         legend.background = element_rect(fill = NA))
 ggsave(plot = gg_time,filename = 'output/cumulative_articles_by_year.png',dpi = 500,units = 'in',width = 6, height = 4.5)
 
-gg_time <- ggplot(time_plot_df[!is.na(cluster_phrase),] %>% arrange(-PY),aes(x = PY,y = N,colour = cluster_phrase,group = cluster_phrase)) + 
+gg_time <- ggplot(time_plot_df[!is.na(louv_cluster),] %>% arrange(-PY),aes(x = PY,y = N,colour = cluster_phrase,group = cluster_phrase)) + 
   geom_point() + geom_path() +
   ggtitle('Yearly count of articles by cluster in publication sample') + theme_bw() +
   scale_x_continuous(name = 'Publication year',breaks=seq(1978,2021,5)) +
@@ -362,6 +362,11 @@ gg_time <- ggplot(time_plot_df[!is.na(cluster_phrase),] %>% arrange(-PY),aes(x =
         legend.background = element_rect(fill = NA))
 
 ggsave(plot = gg_time,filename = 'output/articles_by_year.png',dpi = 500,units = 'in',width = 6, height = 4.5)
+
+net_combo_dt$cluster_num <- cluster_phrases$louv_cluster[match(net_combo_dt$name2,cluster_phrases$V1)]
+
+net_combo_dt$name2 <- paste0(ifelse(is.na(net_combo_dt$cluster_num),'',
+       paste0(net_combo_dt$cluster_num,': ')),net_combo_dt$name2)
 
 (netplot <- ggplot() + 
     theme_blank() + 
@@ -395,6 +400,10 @@ M_dt2[,citation_rank_by_cluster:=rank(-TC,ties.method = 'first'),by=.(cluster)]
 M_dt2$citation_per_year <- M_dt2$TC/(2022 - as.numeric(M_dt2$PY))
 M_dt2$citation_per_year[M_dt2$citation_per_year==Inf] <- NA
 M_dt2[,citation_per_year_rank:=rank(-citation_per_year,ties.method = 'average')]
+
+net_cluster_combo_dt$keywords <- ifelse(is.na(net_cluster_combo_dt$keywords),NA,
+       paste0(net_cluster_combo_dt$cluster,': ',net_cluster_combo_dt$keywords))
+     
 if(replot){
 (netplot2 <- ggplot() + 
     theme_blank() + 
@@ -418,7 +427,6 @@ if(replot){
     ggtitle('Cluster-level citation network') + 
     labs(caption = '*node size = # papers in cluster\n**edge darkness = # citations between clusters\n***edges with # papers < mean edge value omitted')+
     NULL + theme(title = element_text(size = 14)))
-
 ggsave(plot = netplot2,filename = 'output/cluster_graph.png',dpi = 500,units = 'in',height = 10,width = 10)
 }
 
@@ -477,8 +485,8 @@ backbone_net <- ggnetwork(combo_graph)
 backbone_net$name_short <- str_extract(backbone_net$name,'^.+[0-9]{4}')
 backbone_net$year <- str_extract(backbone_net$name_short,'[0-9]{4}')
 backbone_net$first_name <- str_extract(backbone_net$name_short,'^[A-Z]+')
-backbone_net$mp_1[is.na(backbone_net$mp_1)]<-0
-backbone_net$mp_2[is.na(backbone_net$mp_2)]<-0
+#backbone_net$mp_1[is.na(backbone_net$mp_1)]<-0
+#backbone_net$mp_2[is.na(backbone_net$mp_2)]<-0
 backbone_net <- data.table(backbone_net)
 
 backbone_net$louv_cluster <- ifelse(!is.na(backbone_net$louv_cluster_1),backbone_net$louv_cluster_1,backbone_net$louv_cluster_2)
@@ -504,6 +512,9 @@ backbone_net2$x <-backbone_net2$x*-1
 backbone_net2$y <-backbone_net2$y*-1
 backbone_net2$xend <-backbone_net2$xend *-1
 backbone_net2$yend <-backbone_net2$yend *-1
+
+backbone_net2$cluster_keywords<-paste0(backbone_net2$louv_cluster,': ',backbone_net2$cluster_keywords)
+
 if(replot){
 gpath <- ggplot(data = backbone_net2,
                  aes(x = x,y = y, yend = yend,xend = xend,colour = cluster_keywords,
@@ -518,7 +529,7 @@ gpath <- ggplot(data = backbone_net2,
   theme_blank() + 
     theme(title = element_text(size = 20),text = element_text(family = 'Times'),
           legend.background = element_rect(fill = alpha('white',0)),
-          legend.spacing = unit(.2,'cm'),legend.position = c(0.75,0.25)) + 
+          legend.spacing = unit(.2,'cm'),legend.position = c(0.25,0.20)) + 
     ggtitle('Critical path + most cited papers citing the path') +
   guides(linetype = 'none',
          color = guide_legend(override.aes = list(size = 5))) +  
@@ -536,4 +547,5 @@ label_key <- backbone_net
 label_key <- label_key[,.(name_short,name,cluster_keywords,mp)]
 label_key <- label_key[!duplicated(label_key),]
 label_key$title <- M_dt$TI[match(label_key$name,str_replace_all(M_dt$SR,'\\,',''))]
+
 htmlTable(label_key,rnames = F,file = 'output/critical_path_key.html')
